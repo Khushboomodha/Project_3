@@ -1,0 +1,3602 @@
+,Country,City
+0,United States of America,Punta Gorda
+1,United States of America,Phoenix
+2,United States of America,Pontiac
+3,United States of America,Port Neches
+4,United States of America,Portales
+5,United States of America,Post Falls
+6,United States of America,Dayton
+7,United States of America,Deming
+8,United States of America,Destin
+9,United States of America,Grandville
+10,United States of America,Green Valley
+11,United States of America,Greendale
+12,United States of America,Havre De Grace
+13,United States of America,Hazelwood
+14,United States of America,Hicksville
+15,United States of America,Harrison
+16,United States of America,Taunton
+17,Mexico,Tepeaca
+18,Mexico,Tequila
+19,Mexico,Toluca
+20,Mexico,Ixtaczoquitlan
+21,Mexico,Isla
+22,United States of America,Trenton
+23,United States of America,Trujillo Alto
+24,United States of America,Two Rivers
+25,United States of America,Tysons Corner
+26,United States of America,Willowbrook
+27,United States of America,Wilmette
+28,United States of America,Wolf Trap
+29,United States of America,Woodhaven
+30,United States of America,Yankton
+31,United States of America,West Carrollton City
+32,Canada,Whitehorse
+33,United States of America,Williamsport
+34,United States of America,Fox Lake
+35,United States of America,Friendly
+36,United States of America,Hoffman Estates
+37,United States of America,Holly Springs
+38,United States of America,Tamiami
+39,Mexico,Zimatlan
+40,Mexico,Zinacantepec
+41,Mexico,Acuautla
+42,United States of America,Acworth
+43,United States of America,Adelphi
+44,United States of America,Alabaster
+45,Canada,Alma
+46,United States of America,Antioch
+47,Mexico,Apaseo El Grande
+48,United States of America,Bartlesville
+49,Mexico,Chilpancingo
+50,United States of America,Cimarron Hills
+51,United States of America,Cooper City
+52,United States of America,Copperas Cove
+53,Mexico,Cotija
+54,United States of America,Cypress Lake
+55,United States of America,Bedford
+56,United States of America,Berwick
+57,United States of America,Beverly
+58,United States of America,North Andrews Gardens
+59,United States of America,Northbridge
+60,Mexico,Nuevo Casas Grandes
+61,United States of America,Oak Lawn
+62,United States of America,Oakdale
+63,United States of America,Orem
+64,United States of America,Orinda
+65,United States of America,Parkville
+66,United States of America,Pasadena
+67,United States of America,Pataskala
+68,United States of America,Pelham
+69,Mexico,Perote
+70,United States of America,Saint Matthews
+71,United States of America,Saint Pete Beach
+72,Canada,Saint Thomas
+73,United States of America,Prichard
+74,Canada,Prince George
+75,Mexico,Purepero
+76,United States of America,Rahway
+77,United States of America,Plum
+78,United States of America,Poughkeepsie
+79,United States of America,Randallstown
+80,United States of America,Richardson
+81,United States of America,Richmond
+82,United States of America,Daly City
+83,United States of America,Dumas
+84,United States of America,Dyersburg
+85,United States of America,Eatontown
+86,Mexico,Ebano
+87,United States of America,El Campo
+88,Mexico,El Pueblito
+89,United States of America,Ellicott City
+90,United States of America,Golden Glades
+91,United States of America,Granger
+92,United States of America,Grants Pass
+93,Mexico,Guasave
+94,United States of America,Fort Walton Beach
+95,United States of America,Fountain Hills
+96,United States of America,Fountain
+97,United States of America,Front Royal
+98,United States of America,Lake Jackson
+99,United States of America,Lakeside
+100,United States of America,Magnolia
+101,United States of America,Maitland
+102,United States of America,Hanahan
+103,United States of America,Hauppauge
+104,United States of America,Hayward
+105,United States of America,Hoboken
+106,United States of America,Killeen
+107,Mexico,La Barca
+108,United States of America,La Presa
+109,Mexico,Jilotepec
+110,United States of America,Kearns
+111,United States of America,Kerrville
+112,United States of America,Kettering
+113,United States of America,Mashpee
+114,United States of America,Merriam
+115,United States of America,Merrill
+116,United States of America,Moscow
+117,Mexico,Muna
+118,Mexico,Naranjos
+119,United States of America,New Lenox
+120,United States of America,Kingsgate
+121,United States of America,Klamath Falls
+122,United States of America,Littleton
+123,United States of America,Lochearn
+124,Mexico,La Joya
+125,United States of America,Lady Lake
+126,Mexico,Las Margaritas
+127,United States of America,Leominster
+128,Mexico,Leon
+129,United States of America,Lighthouse Point
+130,United States of America,Kaukauna
+131,United States of America,Mountlake Terrace
+132,United States of America,Muskego
+133,United States of America,League City
+134,United States of America,Lennox
+135,United States of America,Lockhart
+136,Mexico,Los Reyes Acozac
+137,United States of America,Machesney Park
+138,Mexico,La Piedad
+139,United States of America,Matteson
+140,United States of America,Ecorse
+141,United States of America,Elko
+142,United States of America,Enumclaw
+143,Mexico,Etzatlan
+144,United States of America,Fairview Heights
+145,United States of America,Falls Church
+146,United States of America,Fort Atkinson
+147,United States of America,Fort Morgan
+148,United States of America,Gladeview
+149,United States of America,Goodings Grove
+150,United States of America,Grand Junction
+151,United States of America,Greeneville
+152,United States of America,Greenwood Village
+153,United States of America,Hollins
+154,United States of America,Hot Springs
+155,Mexico,Huatusco
+156,Mexico,Hunucma
+157,United States of America,Hallandale Beach
+158,United States of America,Havelock
+159,United States of America,Healdsburg
+160,United States of America,Hialeah
+161,United States of America,Frisco
+162,United States of America,Gardner
+163,United States of America,Middleburg Heights
+164,United States of America,Millcreek
+165,United States of America,Milledgeville
+166,United States of America,Montebello
+167,United States of America,Muscle Shoals
+168,Mexico,Nanchital
+169,United States of America,Narragansett
+170,United States of America,Nesconset
+171,United States of America,New Haven
+172,United States of America,New Iberia
+173,United States of America,Pickerington
+174,Canada,Powell River
+175,United States of America,Olive Branch
+176,United States of America,Oregon City
+177,United States of America,Ormond Beach
+178,United States of America,Paradise Valley
+179,United States of America,Patchogue
+180,United States of America,Pearland
+181,United States of America,Dracut
+182,United States of America,East Islip
+183,United States of America,East Rockaway
+184,Mexico,Empalme
+185,United States of America,Erlanger
+186,United States of America,Fernandina Beach
+187,United States of America,Finneytown
+188,United States of America,Florham Park
+189,Mexico,Gabriel Leyva Solano
+190,United States of America,Garden Acres
+191,United States of America,Plattsburgh
+192,United States of America,Lake Havasu City
+193,United States of America,Laramie
+194,United States of America,Lino Lakes
+195,United States of America,Los Angeles
+196,United States of America,Sierra Madre
+197,United States of America,Sierra Vista
+198,United States of America,Siloam Springs
+199,United States of America,Sacramento
+200,United States of America,Reynoldsburg
+201,United States of America,Richland
+202,Mexico,Rio Grande
+203,Canada,Saint Hyacinthe
+204,Mexico,Salamanca
+205,United States of America,Daphne
+206,United States of America,Deerfield
+207,United States of America,Sebastian
+208,United States of America,Wood River
+209,Mexico,Xalpa
+210,United States of America,West Haverstraw
+211,United States of America,West Point
+212,United States of America,Western Springs
+213,United States of America,Westford
+214,United States of America,Williamsburg
+215,United States of America,Winter Haven
+216,United States of America,Wisconsin Rapids
+217,United States of America,Michigan City
+218,United States of America,Middletown
+219,United States of America,Milford Mill
+220,United States of America,Mira Loma
+221,Mexico,Montemorelos
+222,United States of America,Moorhead
+223,Mexico,Moroleon
+224,United States of America,Moses Lake
+225,United States of America,Mundelein
+226,United States of America,Natchez
+227,United States of America,New Port Richey
+228,United States of America,North Fort Myers
+229,United States of America,North Tonawanda
+230,United States of America,Oak Creek
+231,United States of America,Old Saybrook
+232,United States of America,Collinsville
+233,United States of America,Coral Gables
+234,Canada,Corner Brook
+235,United States of America,Coronado
+236,United States of America,Corvallis
+237,United States of America,Country Club Hills
+238,United States of America,Crest Hill
+239,United States of America,Crestwood
+240,United States of America,Brockton
+241,United States of America,Brooklyn Park
+242,United States of America,Brookside
+243,Canada,Campbell River
+244,United States of America,Carney
+245,United States of America,Carrollton
+246,Mexico,Catemaco
+247,United States of America,Daytona Beach
+248,United States of America,Chaska
+249,Mexico,Chichihualco
+250,Mexico,Chicoloapan
+251,United States of America,Chubbuck
+252,United States of America,Clarksburg
+253,United States of America,Clarksdale
+254,United States of America,East Point
+255,Canada,Edmundston
+256,United States of America,Emporia
+257,United States of America,Fairmount
+258,United States of America,Florin
+259,United States of America,Forest Hills
+260,United States of America,Forrest City
+261,Mexico,Banderilla
+262,United States of America,Beach Park
+263,Canada,Beloeil
+264,United States of America,Bergenfield
+265,United States of America,Biddeford
+266,United States of America,Bloomfield
+267,United States of America,Boardman
+268,United States of America,Bridgewater
+269,United States of America,Burlingame
+270,Mexico,Calpulalpan
+271,United States of America,Campbell
+272,United States of America,Cape Canaveral
+273,United States of America,Castlewood
+274,Mexico,Chihuahua
+275,United States of America,Cinnaminson
+276,United States of America,Clark
+277,Mexico,Acahualco
+278,United States of America,Alice
+279,United States of America,Alpena
+280,United States of America,Annandale
+281,Mexico,Atoyac
+282,United States of America,Princeton
+283,United States of America,Racine
+284,United States of America,Raymond
+285,United States of America,Redland
+286,United States of America,Rio Rancho
+287,United States of America,Riverbank
+288,United States of America,Riverdale
+289,United States of America,Ronkonkoma
+290,United States of America,Royal Oak
+291,Mexico,Salinas
+292,Mexico,Papasquiaro
+293,United States of America,Pawtucket
+294,United States of America,Plainview
+295,United States of America,Pleasant Hill
+296,Canada,Abbotsford
+297,United States of America,Ada
+298,Mexico,Adolfo Ruiz Cortines
+299,United States of America,Angleton
+300,United States of America,Portland
+301,United States of America,Potomac
+302,United States of America,Scotch Plains
+303,United States of America,Selma
+304,United States of America,Sikeston
+305,United States of America,Somerset
+306,United States of America,South Ogden
+307,United States of America,Spring Valley
+308,United States of America,Stanford
+309,United States of America,Sayville
+310,United States of America,Schaumburg
+311,United States of America,Scituate
+312,Mexico,Villa De Alvarez
+313,Mexico,Villagran
+314,United States of America,Wade Hampton
+315,United States of America,Waianae
+316,United States of America,Walpole
+317,Mexico,Allende
+318,United States of America,Alpharetta
+319,United States of America,Arkadelphia
+320,United States of America,Babylon
+321,Mexico,Bochil
+322,United States of America,Brattleboro
+323,Mexico,Cacahoatan
+324,Mexico,Cacalomacan
+325,United States of America,Canon City
+326,United States of America,Casas Adobes
+327,United States of America,Tamarac
+328,United States of America,Taylorville
+329,Mexico,Tecoman
+330,Mexico,Tecuala
+331,Mexico,Tejupilco
+332,United States of America,Tempe
+333,United States of America,Temple Terrace
+334,Mexico,Tenancingo
+335,United States of America,Terrell
+336,United States of America,The Colony
+337,Mexico,Tijuana
+338,Mexico,Union Hidalgo
+339,United States of America,Universal City
+340,United States of America,Vega Alta
+341,United States of America,Walker
+342,United States of America,Wells
+343,United States of America,West Bend
+344,United States of America,West Saint Paul
+345,Canada,Wetaskiwin
+346,United States of America,Willimantic
+347,United States of America,Winnetka
+348,United States of America,Woodbury
+349,United States of America,Wright
+350,Mexico,Yahualica
+351,United States of America,Yeadon
+352,United States of America,Bethel Park
+353,United States of America,Big Spring
+354,United States of America,Bound Brook
+355,United States of America,South Lyon
+356,United States of America,South River
+357,United States of America,Suisun City
+358,United States of America,Sun Prairie
+359,United States of America,Upper Arlington
+360,United States of America,Valinda
+361,United States of America,Ewa Beach
+362,United States of America,Fallbrook
+363,United States of America,Florissant
+364,United States of America,Forest Park
+365,United States of America,Oregon
+366,United States of America,Oswego
+367,Mexico,Palau
+368,United States of America,Papillion
+369,United States of America,Pharr
+370,United States of America,Philadelphia
+371,United States of America,Pineville
+372,United States of America,Quartz Hill
+373,United States of America,Rosenberg
+374,United States of America,Russellville
+375,United States of America,Rye
+376,United States of America,Saint Helens
+377,Mexico,Salina Cruz
+378,United States of America,San German
+379,United States of America,San Pablo
+380,United States of America,Santa Clara
+381,United States of America,Sebring
+382,United States of America,Riverton
+383,United States of America,Rocklin
+384,Mexico,Romita
+385,United States of America,North Massapequa
+386,United States of America,Norwood
+387,United States of America,Novato
+388,Mexico,Nueva Rosita
+389,United States of America,Oakton
+390,United States of America,South Pasadena
+391,United States of America,Springdale
+392,United States of America,Stow
+393,United States of America,Sun City
+394,United States of America,Ken Caryl
+395,United States of America,Kendall
+396,United States of America,Jeffersonville
+397,United States of America,Jollyville
+398,Mexico,Juarez
+399,Mexico,Ixtepec
+400,Mexico,Tlajomulco
+401,Mexico,Tlapacoyan
+402,Mexico,Tlaxcalancingo
+403,United States of America,Shelbyville
+404,United States of America,South Burlington
+405,United States of America,Southglenn
+406,United States of America,Springville
+407,United States of America,Staunton
+408,United States of America,Stoughton
+409,Mexico,Sanctorum
+410,United States of America,Sanford
+411,Canada,Sarnia
+412,United States of America,Sherwood
+413,United States of America,Signal Hill
+414,United States of America,Silver Spring
+415,Canada,Smiths Falls
+416,United States of America,Glen Carbon
+417,United States of America,Grand Haven
+418,United States of America,Green Haven
+419,United States of America,Greencastle
+420,United States of America,Grenada
+421,United States of America,Griffin
+422,United States of America,Groves
+423,Canada,Guelph
+424,United States of America,Harrisburg
+425,United States of America,Hayden
+426,United States of America,Hollister
+427,United States of America,Hope
+428,United States of America,Huntington Station
+429,Mexico,Jimenez
+430,Canada,Fort Saint John
+431,United States of America,Fortuna Foothills
+432,United States of America,Fraser
+433,Mexico,Fresnillo
+434,United States of America,Galt
+435,United States of America,Exeter
+436,United States of America,Fairview
+437,United States of America,Folsom
+438,United States of America,Forestville
+439,United States of America,Fort Collins
+440,Mexico,Chapala
+441,United States of America,Charlottesville
+442,United States of America,Chicopee
+443,United States of America,Chillicothe
+444,United States of America,Bloomingdale
+445,United States of America,Blue Ash
+446,United States of America,Boca Raton
+447,United States of America,Brown Deer
+448,United States of America,Buena Park
+449,United States of America,Butler
+450,Mexico,Calpan
+451,United States of America,Calumet City
+452,United States of America,Canyon
+453,United States of America,Carrboro
+454,Mexico,Castanos
+455,United States of America,Atlanta
+456,United States of America,Atlantic City
+457,Canada,Bathurst
+458,United States of America,Cloverleaf
+459,United States of America,Clute
+460,United States of America,Concord
+461,Canada,Cornwall
+462,United States of America,Costa Mesa
+463,United States of America,Beavercreek
+464,United States of America,Belvedere Park
+465,United States of America,Glen Rock
+466,United States of America,Glendale
+467,United States of America,Golden
+468,United States of America,Grand Forks
+469,United States of America,Greenville
+470,United States of America,Hillsborough
+471,United States of America,Holliston
+472,United States of America,Hyattsville
+473,United States of America,Indian Trail
+474,Mexico,Ixmiquilpan
+475,Mexico,Jerez
+476,United States of America,Kenner
+477,Mexico,San Francisco Del Rincon
+478,Mexico,San Nicolas De Los Garza
+479,United States of America,Sandy Springs
+480,United States of America,Santa Monica
+481,United States of America,Coconut Creek
+482,United States of America,Conroe
+483,Canada,Courtenay
+484,Canada,Cowansville
+485,United States of America,Creve Coeur
+486,United States of America,Chapel Hill
+487,Mexico,Chiautempan
+488,Mexico,Chimalhuacan
+489,United States of America,Clearfield
+490,United States of America,Oskaloosa
+491,United States of America,Owings Mills
+492,Mexico,Pachuca
+493,United States of America,Palatine
+494,United States of America,Panama City
+495,United States of America,Weston
+496,United States of America,Winter Park
+497,United States of America,Wyckoff
+498,Mexico,Xalatlaco
+499,Mexico,Xoxocotla
+500,United States of America,Wilkinsburg
+501,United States of America,Willmar
+502,United States of America,Winston Salem
+503,United States of America,Walker Mill
+504,Canada,Matane
+505,United States of America,Menomonee Falls
+506,Mexico,Minatitlan
+507,United States of America,Monroe
+508,United States of America,Mount Vernon
+509,United States of America,Tarboro
+510,Mexico,Tepatlaxco
+511,Mexico,Tierra Blanca
+512,United States of America,Nashville
+513,United States of America,New Providence
+514,United States of America,Norland
+515,United States of America,North Versailles
+516,United States of America,Tuckahoe
+517,United States of America,Vacaville
+518,United States of America,Kissimmee
+519,Mexico,La Antigua
+520,United States of America,Massena
+521,United States of America,Merrick
+522,Mexico,Metepec
+523,United States of America,Methuen
+524,Mexico,Lerdo
+525,Mexico,Lopez Mateos
+526,United States of America,Lufkin
+527,United States of America,Lynnfield
+528,United States of America,Mableton
+529,United States of America,Irvington
+530,Mexico,Ixtapa
+531,United States of America,Jefferson City
+532,United States of America,Jeffersontown
+533,United States of America,Johnston
+534,United States of America,Bellaire
+535,United States of America,Boulder
+536,United States of America,Bradenton
+537,United States of America,Brentwood
+538,United States of America,Holland
+539,United States of America,Homestead
+540,United States of America,Grafton
+541,Canada,Granby
+542,United States of America,Gurnee
+543,United States of America,Hacienda Heights
+544,United States of America,Hermosa Beach
+545,United States of America,Imperial Beach
+546,Mexico,Jamay
+547,United States of America,Kearney
+548,United States of America,Kingman
+549,Mexico,Tapachula
+550,United States of America,Napa
+551,United States of America,New City
+552,United States of America,Manassas Park
+553,United States of America,Maple Grove
+554,United States of America,Walnut
+555,United States of America,Weirton
+556,Canada,Leamington
+557,United States of America,Lewisburg
+558,United States of America,Lincolnton
+559,United States of America,Lockport
+560,United States of America,Longmont
+561,United States of America,Longwood
+562,United States of America,Kuna
+563,United States of America,La Marque
+564,United States of America,Mankato
+565,United States of America,Austin
+566,United States of America,Avondale
+567,United States of America,Altadena
+568,Mexico,Apaxco
+569,Mexico,Yautepec
+570,United States of America,Ypsilanti
+571,United States of America,Dedham
+572,United States of America,Des Moines
+573,United States of America,Dix Hills
+574,United States of America,Wenatchee
+575,United States of America,West Orange
+576,United States of America,West Warwick
+577,United States of America,Woodmere
+578,Mexico,Torreon
+579,United States of America,Tumwater
+580,United States of America,South Yarmouth
+581,United States of America,Southbury
+582,United States of America,Spanish Lake
+583,United States of America,San Angelo
+584,United States of America,Saint Louis
+585,Canada,Regina
+586,United States of America,Richmond West
+587,United States of America,Ridgeland
+588,United States of America,Rocky Mount
+589,United States of America,Rocky River
+590,United States of America,Rossville
+591,United States of America,Severna Park
+592,Mexico,Acajete
+593,Mexico,Acayucan
+594,United States of America,Addison
+595,United States of America,Agoura Hills
+596,Mexico,Ajalpan
+597,United States of America,Alamo
+598,United States of America,Albemarle
+599,Canada,Amherstburg
+600,United States of America,Alpine
+601,United States of America,Apex
+602,United States of America,Arcata
+603,United States of America,Palo Alto
+604,Mexico,Panotla
+605,Canada,Parksville
+606,United States of America,Parlier
+607,United States of America,Parole
+608,United States of America,Payson
+609,United States of America,Beecher
+610,United States of America,Berkley
+611,United States of America,Brooklyn Center
+612,Mexico,Cabo San Lucas
+613,Mexico,Canatlan
+614,Canada,Canmore
+615,United States of America,Centralia
+616,United States of America,Bowling Green
+617,United States of America,Newnan
+618,United States of America,Norfolk
+619,United States of America,North Bellmore
+620,United States of America,North Valley Stream
+621,United States of America,Chicago Ridge
+622,United States of America,Chico
+623,United States of America,Cicero
+624,United States of America,Commerce City
+625,United States of America,Abington
+626,United States of America,Agawam
+627,United States of America,Albany
+628,United States of America,Albuquerque
+629,United States of America,Canyon Lake
+630,United States of America,Catonsville
+631,United States of America,Celina
+632,United States of America,Champaign
+633,United States of America,Baker
+634,United States of America,Ballwin
+635,United States of America,Bayonne
+636,United States of America,Broomfield
+637,United States of America,Camarillo
+638,United States of America,Teaneck
+639,Mexico,Texcoco
+640,Mexico,Tlaxcoapan
+641,Mexico,Tultitlan
+642,Mexico,Venustiano Carranza
+643,United States of America,Enid
+644,United States of America,Excelsior Springs
+645,United States of America,Ferry Pass
+646,United States of America,Fountain Valley
+647,United States of America,Franklin
+648,United States of America,Galion
+649,United States of America,Garden City
+650,United States of America,Gardena
+651,United States of America,Delray Beach
+652,United States of America,Derby
+653,United States of America,Dublin
+654,United States of America,Eagan
+655,United States of America,East Brainerd
+656,United States of America,East Hartford
+657,Mexico,El Mante
+658,United States of America,Round Rock
+659,United States of America,Rubidoux
+660,Canada,Salaberry De Valleyfield
+661,United States of America,Spencer
+662,United States of America,Statesville
+663,United States of America,Picayune
+664,United States of America,Pinellas Park
+665,United States of America,Plainfield
+666,United States of America,Port Hueneme
+667,Mexico,Progreso Industrial
+668,United States of America,Ramsey
+669,United States of America,Rehoboth
+670,Mexico,Rincon De Romos
+671,United States of America,Rio Grande City
+672,United States of America,Riverside
+673,United States of America,Opportunity
+674,United States of America,Ossining
+675,Mexico,Ozumba
+676,United States of America,Palm Desert
+677,United States of America,Palos Heights
+678,United States of America,Pasco
+679,United States of America,Pearl City
+680,Mexico,Contla
+681,United States of America,Crystal Lake
+682,United States of America,Pennsville
+683,United States of America,Pensacola
+684,United States of America,Perry Hall
+685,United States of America,Mayfield Heights
+686,United States of America,Midvale
+687,United States of America,Milpitas
+688,United States of America,Minneapolis
+689,Mexico,Moyotzingo
+690,Canada,Nanticoke
+691,United States of America,East Brunswick
+692,United States of America,East Hemet
+693,United States of America,East Lake
+694,United States of America,Elk Grove Village
+695,United States of America,Ellensburg
+696,United States of America,Dothan
+697,United States of America,Marshfield
+698,United States of America,Modesto
+699,United States of America,Metairie
+700,United States of America,Albert Lea
+701,United States of America,Dobbs Ferry
+702,United States of America,La Palma
+703,United States of America,La Vista
+704,Mexico,Las Varas
+705,United States of America,Lemon Grove
+706,United States of America,Lewisville
+707,Mexico,Linares
+708,United States of America,Longview
+709,United States of America,Scott Lake
+710,United States of America,Scottsdale
+711,United States of America,Seven Hills
+712,United States of America,South Elgin
+713,United States of America,Stratford
+714,Mexico,San Juan De La Vega
+715,United States of America,Battle Creek
+716,United States of America,Beaumont
+717,United States of America,Bixby
+718,United States of America,Blacksburg
+719,United States of America,Bon Air
+720,Mexico,Buenos Aires
+721,Mexico,Caborca
+722,United States of America,Cary
+723,Mexico,Chetumal
+724,United States of America,Clifton
+725,United States of America,Tehachapi
+726,Canada,Terrace
+727,United States of America,The Woodlands
+728,United States of America,Thousand Oaks
+729,United States of America,Topeka
+730,Mexico,Tototlan
+731,United States of America,Trotwood
+732,United States of America,Tallmadge
+733,United States of America,Oro Valley
+734,United States of America,Oviedo
+735,Canada,Owen Sound
+736,United States of America,Pedley
+737,United States of America,Peru
+738,Mexico,Quiroga
+739,United States of America,Placerville
+740,United States of America,Pleasant Prairie
+741,United States of America,Opa Locka
+742,United States of America,Orangevale
+743,Canada,Oshawa
+744,United States of America,Pacific Grove
+745,United States of America,Palisades Park
+746,United States of America,Redlands
+747,United States of America,Rochester Hills
+748,United States of America,Rock Hill
+749,United States of America,Madison Heights
+750,United States of America,Commerce
+751,Mexico,Cozumel
+752,United States of America,Plover
+753,United States of America,Port Saint John
+754,Mexico,Sabinas
+755,Mexico,San Juan De Los Lagos
+756,Mexico,San Julian
+757,Mexico,San Pablo De Las Salinas
+758,Mexico,Papalotla
+759,United States of America,Bainbridge
+760,United States of America,Balch Springs
+761,United States of America,Black Forest
+762,United States of America,Brainerd
+763,United States of America,Bellview
+764,United States of America,Ashland
+765,United States of America,Azalea Park
+766,United States of America,South Lake Tahoe
+767,United States of America,South Venice
+768,United States of America,South Whittier
+769,United States of America,Struthers
+770,United States of America,Sycamore
+771,United States of America,La Crosse
+772,United States of America,La Vergne
+773,United States of America,Lancaster
+774,United States of America,Laurinburg
+775,United States of America,Live Oak
+776,United States of America,Loma Linda
+777,United States of America,Lorton
+778,United States of America,Los Altos
+779,United States of America,Lyndon
+780,United States of America,Defiance
+781,United States of America,Diamond Bar
+782,United States of America,Douglas
+783,United States of America,Dundalk
+784,United States of America,Durango
+785,United States of America,Edmond
+786,United States of America,Edmonds
+787,Mexico,El Colomo
+788,United States of America,Elizabethton
+789,United States of America,Gaithersburg
+790,United States of America,Gilbert
+791,United States of America,Fairfield
+792,United States of America,Fargo
+793,United States of America,Forest Hill
+794,Mexico,Melchor Ocampo
+795,United States of America,Merced
+796,United States of America,Middlesex
+797,United States of America,Millbury
+798,United States of America,Mineral Wells
+799,United States of America,Missouri City
+800,Mexico,Mixquiahuala
+801,Mexico,Morelia
+802,United States of America,Muscatine
+803,United States of America,New Kensington
+804,Mexico,Nochistlan
+805,United States of America,Sylvania
+806,Mexico,Tepatepec
+807,Mexico,Tepic
+808,United States of America,Tigard
+809,United States of America,Timberlake
+810,Mexico,Tlalcilalcalpan
+811,United States of America,Troy
+812,Mexico,Tuxpan
+813,United States of America,Utica
+814,United States of America,Winchendon
+815,United States of America,Winona
+816,United States of America,Winter Springs
+817,Mexico,Villa Union
+818,United States of America,Wareham
+819,United States of America,Massillon
+820,United States of America,Maumee
+821,United States of America,Menlo Park
+822,United States of America,Meriden
+823,United States of America,Mount Clemens
+824,United States of America,Galesburg
+825,United States of America,Eugene
+826,United States of America,Evergreen Park
+827,United States of America,Farmington
+828,United States of America,Floral Park
+829,United States of America,Atchison
+830,United States of America,Attleboro
+831,United States of America,Bartow
+832,United States of America,Bell
+833,United States of America,Circleville
+834,United States of America,Burr Ridge
+835,Mexico,Calimaya
+836,Mexico,Coalcoman
+837,Mexico,Comonfort
+838,United States of America,Coral Hills
+839,United States of America,Coralville
+840,Mexico,Cortazar
+841,United States of America,Aloha
+842,United States of America,Altoona
+843,United States of America,Altus
+844,Mexico,Amozoc
+845,United States of America,Sherman
+846,United States of America,South Valley
+847,United States of America,Southern Pines
+848,United States of America,Spartanburg
+849,Mexico,Sahuayo
+850,United States of America,Saint Joseph
+851,United States of America,Sanger
+852,United States of America,Santa Fe Springs
+853,United States of America,Saraland
+854,United States of America,Alamogordo
+855,United States of America,Aldine
+856,United States of America,Altamont
+857,Mexico,Apizaco
+858,United States of America,Arbutus
+859,Mexico,Arriaga
+860,United States of America,Sheridan
+861,Mexico,Teopisca
+862,Canada,Thunder Bay
+863,United States of America,Tinley Park
+864,Mexico,Tlalnepantla
+865,United States of America,Trumbull
+866,United States of America,Tualatin
+867,United States of America,University Heights
+868,United States of America,Vicksburg
+869,United States of America,Vidor
+870,United States of America,Sarasota Springs
+871,United States of America,Schiller Park
+872,United States of America,Scottsbluff
+873,United States of America,Seaside
+874,United States of America,Martinsville
+875,United States of America,Marysville
+876,United States of America,Mequon
+877,United States of America,Millington
+878,Mexico,Miramar
+879,United States of America,Natchitoches
+880,United States of America,Needham
+881,United States of America,New Albany
+882,United States of America,New Milford
+883,Mexico,Nezahualcoyotl
+884,United States of America,North Bergen
+885,United States of America,Oak Park
+886,United States of America,Dinuba
+887,United States of America,Druid Hills
+888,United States of America,Dunwoody
+889,United States of America,Edison
+890,Mexico,El Salto
+891,United States of America,Ephrata
+892,United States of America,Ferndale
+893,United States of America,Forest Grove
+894,United States of America,Gautier
+895,United States of America,West Caldwell
+896,United States of America,West Pensacola
+897,United States of America,West University Place
+898,United States of America,Westchester
+899,United States of America,Wildomar
+900,United States of America,Wilkes Barre
+901,United States of America,Winder
+902,United States of America,Winslow
+903,United States of America,Woodstock
+904,United States of America,Wyandotte
+905,United States of America,Xenia
+906,Mexico,Armeria
+907,United States of America,Ashwaubenon
+908,United States of America,Back Mountain
+909,United States of America,Burkburnett
+910,United States of America,Burlington
+911,Mexico,Cadereyta
+912,United States of America,Carpentersville
+913,United States of America,Carver
+914,United States of America,Cayce
+915,United States of America,Chelsea
+916,United States of America,Chicago
+917,Mexico,Cintalapa
+918,United States of America,Clarksville
+919,United States of America,Cohoes
+920,United States of America,Colton
+921,Mexico,Comalcalco
+922,United States of America,Conyers
+923,Mexico,Coquimatlan
+924,Mexico,Coscomatepec
+925,Mexico,Cosoleacaque
+926,United States of America,Delaware
+927,United States of America,Derry
+928,United States of America,East Liverpool
+929,Mexico,El Rosario
+930,United States of America,Cheney
+931,United States of America,Clemson
+932,United States of America,Cliffside Park
+933,Canada,Cobourg
+934,United States of America,Collingswood
+935,United States of America,Columbia Heights
+936,United States of America,Cordele
+937,United States of America,Crofton
+938,United States of America,Apache Junction
+939,United States of America,Apopka
+940,United States of America,Fall River
+941,United States of America,Flowing Wells
+942,United States of America,Bell Gardens
+943,United States of America,Bellefontaine Neighbors
+944,United States of America,Bolingbrook
+945,United States of America,Fullerton
+946,United States of America,Dunedin
+947,United States of America,Durant
+948,United States of America,Edwardsville
+949,Mexico,Zacatlan
+950,Mexico,Zinacatepec
+951,United States of America,West Seneca
+952,United States of America,Indianapolis
+953,Mexico,Jocotepec
+954,Mexico,Juan Aldama
+955,United States of America,Kailua
+956,Canada,Glace Bay
+957,United States of America,Haysville
+958,United States of America,Hendersonville
+959,United States of America,Hobe Sound
+960,United States of America,Endicott
+961,United States of America,Fairmont
+962,United States of America,Fitchburg
+963,United States of America,Millbrae
+964,United States of America,Minnetonka
+965,United States of America,Monsey
+966,United States of America,Moraga
+967,United States of America,Nederland
+968,Canada,North Bay
+969,Mexico,Ocozocoautla
+970,United States of America,Okolona
+971,United States of America,Mount Lebanon
+972,United States of America,Mukilteo
+973,United States of America,Murfreesboro
+974,United States of America,Myrtle Grove
+975,United States of America,Saint James
+976,United States of America,Orangeburg
+977,Canada,Orangeville
+978,Mexico,Parras
+979,United States of America,Pembroke Pines
+980,United States of America,Perry
+981,Mexico,Irapuato
+982,Mexico,Ixtlan Del Rio
+983,United States of America,Jonesboro
+984,United States of America,Redding
+985,Mexico,Teotihuacan
+986,Mexico,Tepotzotlan
+987,United States of America,Texas City
+988,Mexico,Tizimin
+989,Mexico,Tultepec
+990,United States of America,Union City
+991,United States of America,Villa Park
+992,United States of America,Wailuku
+993,United States of America,Waverly
+994,United States of America,Laguna Hills
+995,United States of America,Lincoln Park
+996,United States of America,Larkspur
+997,United States of America,Liberal
+998,United States of America,Magna
+999,United States of America,Manchester
+1000,United States of America,Roosevelt
+1001,United States of America,Rossmoor
+1002,United States of America,Roswell
+1003,United States of America,Rowland Heights
+1004,United States of America,Rowlett
+1005,United States of America,Saint Ann
+1006,Mexico,San Luis Rio Colorado
+1007,Mexico,Santa Anita
+1008,United States of America,Santa Fe
+1009,United States of America,Riverview
+1010,United States of America,Surprise
+1011,United States of America,Susanville
+1012,United States of America,South Bradenton
+1013,United States of America,South Farmingdale
+1014,United States of America,South Gate
+1015,United States of America,South San Francisco
+1016,United States of America,Suffolk
+1017,United States of America,Sun City West
+1018,United States of America,Walnut Creek
+1019,United States of America,Waunakee
+1020,United States of America,Fridley
+1021,United States of America,Fuquay Varina
+1022,United States of America,Gadsden
+1023,Mexico,General Escobedo
+1024,United States of America,Humble
+1025,United States of America,Keokuk
+1026,United States of America,Canyon Rim
+1027,United States of America,Casselberry
+1028,United States of America,Chester
+1029,Mexico,Chiautla
+1030,United States of America,Chickasha
+1031,United States of America,Chula Vista
+1032,United States of America,Clearlake
+1033,Canada,Cochrane
+1034,United States of America,Colchester
+1035,United States of America,Coral Terrace
+1036,United States of America,Country Club
+1037,United States of America,Beckley
+1038,United States of America,Bella Vista
+1039,Canada,Belleville
+1040,United States of America,Bonham
+1041,United States of America,Burien
+1042,Mexico,Campeche
+1043,Mexico,Campo Gobierno
+1044,United States of America,Blackfoot
+1045,United States of America,Bloomington
+1046,United States of America,Bonney Lake
+1047,United States of America,Bothell
+1048,United States of America,Bullhead City
+1049,Mexico,Cerritos
+1050,United States of America,Chandler
+1051,Mexico,Acambaro
+1052,United States of America,Allentown
+1053,United States of America,Alliance
+1054,United States of America,Alsip
+1055,United States of America,Ankeny
+1056,United States of America,Arkansas City
+1057,United States of America,Aspen Hill
+1058,United States of America,Atwater
+1059,United States of America,Aventura
+1060,United States of America,Azle
+1061,Canada,Bay Roberts
+1062,Mexico,Ajijic
+1063,United States of America,Amesbury
+1064,United States of America,Auburn
+1065,United States of America,Avocado Heights
+1066,United States of America,Sioux City
+1067,United States of America,Beltsville
+1068,United States of America,Benbrook
+1069,Mexico,Benito Juarez
+1070,United States of America,Providence
+1071,United States of America,Rancho Mirage
+1072,United States of America,Rialto
+1073,United States of America,Ridgefield Park
+1074,United States of America,Rohnert Park
+1075,United States of America,Salem
+1076,Mexico,San Antonio La Isla
+1077,United States of America,San Carlos
+1078,United States of America,Mount Holly
+1079,United States of America,Mountain View
+1080,United States of America,New Rochelle
+1081,United States of America,Oakland Park
+1082,United States of America,Old Bridge
+1083,United States of America,Mays Chapel
+1084,United States of America,Miami
+1085,United States of America,Monterey Park
+1086,United States of America,Lake Elsinore
+1087,United States of America,Longmeadow
+1088,Mexico,Maneadero
+1089,Mexico,Marfil
+1090,United States of America,Kirksville
+1091,United States of America,Kittery
+1092,United States of America,Joliet
+1093,United States of America,Kenmore
+1094,United States of America,Ringwood
+1095,United States of America,Ripon
+1096,United States of America,River Ridge
+1097,Mexico,Poanas
+1098,United States of America,Pocatello
+1099,Canada,Prince Albert
+1100,United States of America,Bryan
+1101,United States of America,California City
+1102,United States of America,Bayonet Point
+1103,Mexico,Canoa
+1104,United States of America,Catano
+1105,United States of America,Cave Spring
+1106,United States of America,Cedar Mill
+1107,United States of America,Cedar Rapids
+1108,United States of America,King City
+1109,United States of America,Kingsville
+1110,United States of America,Largo
+1111,United States of America,Lenexa
+1112,Canada,Lethbridge
+1113,United States of America,Glen Allen
+1114,United States of America,Hackensack
+1115,United States of America,Ham Lake
+1116,United States of America,Hazel Park
+1117,United States of America,Highland
+1118,Mexico,Silao
+1119,United States of America,Davis
+1120,United States of America,Dennis
+1121,United States of America,East Riverdale
+1122,United States of America,El Segundo
+1123,United States of America,Lisle
+1124,United States of America,Lompoc
+1125,United States of America,Manteca
+1126,Mexico,Maxcanu
+1127,United States of America,Melrose
+1128,Mexico,Meoqui
+1129,United States of America,Natick
+1130,United States of America,New Ulm
+1131,Canada,North Battleford
+1132,United States of America,Ogdensburg
+1133,United States of America,Mill Creek
+1134,United States of America,Monticello
+1135,United States of America,Moreno Valley
+1136,United States of America,Goffstown
+1137,United States of America,Grove City
+1138,United States of America,Guayama
+1139,United States of America,Hampton
+1140,Mexico,Hermosillo
+1141,United States of America,Hinsdale
+1142,United States of America,Hormigueros
+1143,United States of America,Johnstown
+1144,United States of America,Katy
+1145,United States of America,Kennewick
+1146,United States of America,Americus
+1147,United States of America,Ammon
+1148,United States of America,Anchorage
+1149,United States of America,Ardmore
+1150,United States of America,Overlea
+1151,United States of America,Palm Bay
+1152,United States of America,Palos Verdes Estates
+1153,United States of America,Parsons
+1154,United States of America,Perth Amboy
+1155,United States of America,Petersburg
+1156,Mexico,Pijijiapan
+1157,United States of America,Plant City
+1158,United States of America,Northglenn
+1159,United States of America,Odessa
+1160,United States of America,Glen Avon
+1161,United States of America,Glen Cove
+1162,United States of America,Glenview
+1163,United States of America,Gloucester
+1164,Mexico,Guanajuato
+1165,United States of America,Ionia
+1166,Mexico,Ixtapaluca
+1167,United States of America,Kahului
+1168,United States of America,Pearl
+1169,United States of America,Hobbs
+1170,Mexico,Iguala
+1171,United States of America,Gloucester City
+1172,United States of America,Golden Gate
+1173,United States of America,Golden Valley
+1174,United States of America,Goldenrod
+1175,United States of America,Goodlettsville
+1176,United States of America,Grand Rapids
+1177,United States of America,Grandview
+1178,United States of America,Grass Valley
+1179,United States of America,Greece
+1180,United States of America,Coatesville
+1181,Mexico,Cuautepec
+1182,United States of America,Downers Grove
+1183,United States of America,East Saint Louis
+1184,United States of America,Elk City
+1185,United States of America,Fairfax
+1186,United States of America,Flint
+1187,United States of America,Forest City
+1188,United States of America,Haslett
+1189,United States of America,Hayesville
+1190,United States of America,Hickory Hills
+1191,United States of America,Holbrook
+1192,United States of America,Hueytown
+1193,United States of America,Danbury
+1194,Mexico,Chemax
+1195,Mexico,Cienaga De Flores
+1196,Mexico,Ciudad Valles
+1197,United States of America,Vineland
+1198,United States of America,West Des Moines
+1199,United States of America,West Norriton
+1200,United States of America,Williamstown
+1201,United States of America,Yucca Valley
+1202,United States of America,Zionsville
+1203,United States of America,Lebanon
+1204,United States of America,Lincoln
+1205,United States of America,Lincolnia
+1206,United States of America,Livingston
+1207,United States of America,Los Lunas
+1208,Mexico,Los Mochis
+1209,United States of America,Lyons
+1210,Mexico,Magdalena
+1211,Mexico,Maltrata
+1212,United States of America,Kings Point
+1213,United States of America,Johnson City
+1214,Mexico,Jojutla
+1215,United States of America,La Habra
+1216,United States of America,Laguna Beach
+1217,United States of America,North Arlington
+1218,United States of America,North Atlanta
+1219,Mexico,Obregon
+1220,United States of America,Ocean Springs
+1221,United States of America,New Carrollton
+1222,United States of America,Niles
+1223,United States of America,Walla Walla
+1224,United States of America,Woodward
+1225,Mexico,Xonacatlan
+1226,Canada,Yellowknife
+1227,United States of America,Taylor
+1228,United States of America,Taylors
+1229,Mexico,Tecpan
+1230,Mexico,Tepatitlan
+1231,Mexico,Tlaltenango
+1232,United States of America,Towson
+1233,United States of America,South Hill
+1234,United States of America,Steubenville
+1235,United States of America,Harker Heights
+1236,United States of America,Harvey
+1237,United States of America,Highlands Ranch
+1238,United States of America,Immokalee
+1239,United States of America,Islip
+1240,Mexico,Guadalupe
+1241,United States of America,Hawthorne
+1242,United States of America,Onalaska
+1243,United States of America,Palm Springs
+1244,United States of America,Quincy
+1245,United States of America,Redwood City
+1246,United States of America,Ridgecrest
+1247,United States of America,Robbinsdale
+1248,United States of America,Rosaryville
+1249,United States of America,Saint Charles
+1250,Mexico,Saltillo
+1251,Mexico,San Luis Potosi
+1252,United States of America,Sandalfoot Cove
+1253,United States of America,Sandusky
+1254,United States of America,Shelby
+1255,United States of America,Savage
+1256,United States of America,Searcy
+1257,United States of America,Ponce
+1258,United States of America,Spanish Fork
+1259,United States of America,Stanton
+1260,Canada,Strathroy
+1261,United States of America,Barberton
+1262,United States of America,Bay Village
+1263,United States of America,Beachwood
+1264,United States of America,Beatrice
+1265,United States of America,Bellflower
+1266,United States of America,Blaine
+1267,United States of America,Bridgeview
+1268,United States of America,Casa Grande
+1269,United States of America,Cedar Falls
+1270,United States of America,Clinton
+1271,United States of America,West Hollywood
+1272,United States of America,Westwego
+1273,Canada,White Rock
+1274,Mexico,Zacatepec
+1275,United States of America,Zion
+1276,United States of America,Azusa
+1277,United States of America,Carson
+1278,United States of America,Chippewa Falls
+1279,United States of America,South Miami Heights
+1280,United States of America,South Plainfield
+1281,United States of America,Summit
+1282,Mexico,Acatic
+1283,Canada,Aldergrove
+1284,United States of America,Arvada
+1285,United States of America,Marlborough
+1286,United States of America,Mayfield
+1287,United States of America,Mentor
+1288,Mexico,Monterrey
+1289,Canada,Moose Jaw
+1290,United States of America,Morgan Hill
+1291,United States of America,Temecula
+1292,Mexico,Tepalcatepec
+1293,Mexico,Tepalcingo
+1294,Mexico,Tepeapulco
+1295,United States of America,The Hammocks
+1296,United States of America,Tomball
+1297,United States of America,Toms River
+1298,United States of America,Totowa
+1299,United States of America,Townsend
+1300,United States of America,Tucson
+1301,Mexico,Tula De Allende
+1302,Mexico,Uruapan
+1303,United States of America,Valdosta
+1304,Mexico,Valparaiso
+1305,Mexico,Tantoyuca
+1306,United States of America,Tarpon Springs
+1307,United States of America,Vista
+1308,United States of America,Glendora
+1309,United States of America,Hazel Crest
+1310,United States of America,Hilo
+1311,Mexico,Jalacingo
+1312,Mexico,Jaltipan
+1313,Mexico,Kanasin
+1314,United States of America,Kerman
+1315,United States of America,Beech Grove
+1316,United States of America,Blue Springs
+1317,United States of America,Boulder City
+1318,United States of America,Bowie
+1319,United States of America,Colleyville
+1320,Mexico,Cuautlancingo
+1321,United States of America,Chalmette
+1322,Mexico,Champoton
+1323,United States of America,Charlotte
+1324,Mexico,Chignahuapan
+1325,United States of America,Burke
+1326,Mexico,Calkini
+1327,United States of America,Bethesda
+1328,Mexico,Platon Sanchez
+1329,United States of America,Port Angeles
+1330,United States of America,West Little River
+1331,United States of America,West Melbourne
+1332,United States of America,Wheeling
+1333,United States of America,Wilson
+1334,United States of America,Woburn
+1335,United States of America,Worcester
+1336,Mexico,Yecapixtla
+1337,United States of America,Lamont
+1338,United States of America,Lemoore
+1339,United States of America,Lomita
+1340,United States of America,Lynchburg
+1341,United States of America,Mokena
+1342,United States of America,Santee
+1343,United States of America,Sayreville
+1344,United States of America,Roselle Park
+1345,United States of America,Round Lake Beach
+1346,Canada,Saint John
+1347,United States of America,Salt Lake City
+1348,United States of America,Shelton
+1349,United States of America,South Charleston
+1350,United States of America,Streetsboro
+1351,United States of America,Sulphur
+1352,United States of America,Kiryas Joel
+1353,United States of America,Marshall
+1354,United States of America,Maryville
+1355,United States of America,Hartford
+1356,Mexico,Paso Del Macho
+1357,United States of America,Patterson
+1358,United States of America,Kinston
+1359,United States of America,Malden
+1360,United States of America,Manhattan
+1361,Mexico,Maravatio
+1362,United States of America,Tustin
+1363,United States of America,Terryville
+1364,United States of America,Waukesha
+1365,United States of America,Waxahachie
+1366,Canada,Sydney Mines
+1367,United States of America,Hooksett
+1368,Mexico,Huajuapan
+1369,Mexico,Huejotzingo
+1370,Mexico,Frontera Comalapa
+1371,United States of America,Gallup
+1372,United States of America,Endwell
+1373,United States of America,Federal Heights
+1374,United States of America,Fort Dodge
+1375,United States of America,Glendale Heights
+1376,United States of America,Glenvar Heights
+1377,United States of America,Indianola
+1378,Mexico,Izamal
+1379,United States of America,La Mirada
+1380,United States of America,Lake Oswego
+1381,United States of America,Lawrenceville
+1382,United States of America,Loves Park
+1383,United States of America,Lower Burrell
+1384,United States of America,Lynn
+1385,United States of America,Bastrop
+1386,United States of America,Bay Point
+1387,United States of America,Arvin
+1388,United States of America,Athol
+1389,Mexico,Atlazalpan
+1390,United States of America,American Canyon
+1391,United States of America,Fort Wayne
+1392,United States of America,Friendswood
+1393,United States of America,Gardendale
+1394,United States of America,Gillette
+1395,Mexico,Gutierrez Zamora
+1396,United States of America,Greer
+1397,United States of America,Gulfport
+1398,United States of America,Hilliard
+1399,United States of America,Hopewell
+1400,United States of America,Huntley
+1401,Mexico,Sayula
+1402,United States of America,San Carlos Park
+1403,Mexico,San Jose Del Castillo
+1404,United States of America,Sedro Woolley
+1405,United States of America,Fort Worth
+1406,United States of America,Gatesville
+1407,United States of America,Glen Burnie
+1408,United States of America,Godfrey
+1409,United States of America,Gresham
+1410,Mexico,Orizaba
+1411,United States of America,Owosso
+1412,United States of America,Peachtree City
+1413,United States of America,Pepperell
+1414,Mexico,Petatlan
+1415,Canada,Petawawa
+1416,United States of America,Pittsfield
+1417,United States of America,Fort Payne
+1418,United States of America,Fostoria
+1419,United States of America,Fruitville
+1420,United States of America,Gantt
+1421,United States of America,Greensboro
+1422,United States of America,Jacksonville
+1423,United States of America,Janesville
+1424,United States of America,Jenison
+1425,United States of America,El Sobrante
+1426,United States of America,Elmwood Park
+1427,United States of America,Fairhope
+1428,Mexico,Miguel Auza
+1429,Mexico,Misantla
+1430,Mexico,Monclova
+1431,United States of America,Mooresville
+1432,United States of America,Mount Prospect
+1433,United States of America,Lake Forest Park
+1434,United States of America,Lake Worth
+1435,United States of America,Lexington Park
+1436,Mexico,Loma Bonita
+1437,United States of America,Lynn Haven
+1438,Mexico,Ocoyoacac
+1439,United States of America,Olean
+1440,United States of America,Jeannette
+1441,United States of America,Junction City
+1442,Mexico,Juventino Rosas
+1443,United States of America,Oroville
+1444,United States of America,Ozark
+1445,United States of America,Palmetto
+1446,United States of America,Provo
+1447,United States of America,Saco
+1448,United States of America,Saint Paul
+1449,United States of America,San Bruno
+1450,United States of America,Santa Clarita
+1451,Mexico,Santa Cruz Del Valle
+1452,United States of America,Santa Paula
+1453,United States of America,Paramount
+1454,United States of America,Parkland
+1455,United States of America,Pike Creek
+1456,United States of America,Piney Green
+1457,United States of America,Pleasant Grove
+1458,United States of America,Plymouth
+1459,United States of America,South Holland
+1460,United States of America,Stoneham
+1461,Canada,Strathmore
+1462,United States of America,Seekonk
+1463,Canada,Shawinigan
+1464,United States of America,Shoreline
+1465,United States of America,South Bend
+1466,United States of America,Sun Valley
+1467,United States of America,National City
+1468,United States of America,Norridge
+1469,United States of America,North Augusta
+1470,United States of America,North Laurel
+1471,United States of America,North Ogden
+1472,United States of America,North Potomac
+1473,United States of America,North Reading
+1474,United States of America,Oak Grove
+1475,United States of America,Oceanside
+1476,United States of America,Oxnard
+1477,United States of America,Palm Valley
+1478,United States of America,Maple Valley
+1479,United States of America,Belton
+1480,United States of America,Belvidere
+1481,United States of America,Berkeley
+1482,United States of America,Bountiful
+1483,United States of America,Burbank
+1484,Mexico,Capulhuac
+1485,United States of America,Carmichael
+1486,United States of America,Catalina Foothills
+1487,Mexico,Cholula
+1488,United States of America,Zephyrhills
+1489,Mexico,Yuriria
+1490,United States of America,Denison
+1491,Mexico,Apodaca
+1492,United States of America,Artesia
+1493,United States of America,Auburn Hills
+1494,Mexico,Balancan
+1495,United States of America,Beaver Dam
+1496,United States of America,Belchertown
+1497,United States of America,Belle Glade
+1498,United States of America,Bentonville
+1499,United States of America,Bradley
+1500,United States of America,Canton
+1501,United States of America,Wichita Falls
+1502,United States of America,Winter Garden
+1503,United States of America,Woodridge
+1504,Mexico,Yajalon
+1505,Canada,Charlottetown
+1506,United States of America,Clive
+1507,United States of America,Columbus
+1508,United States of America,Coon Rapids
+1509,United States of America,Corsicana
+1510,Mexico,Temascalcingo
+1511,Mexico,Tizapan El Alto
+1512,Mexico,Tlanalapan
+1513,United States of America,Tulare
+1514,United States of America,Uniontown
+1515,United States of America,Camp Verde
+1516,United States of America,Cedarburg
+1517,United States of America,College Park
+1518,Mexico,Constitucion
+1519,United States of America,Corinth
+1520,Mexico,Amecameca
+1521,United States of America,Annapolis
+1522,United States of America,Belmont
+1523,United States of America,Billings
+1524,United States of America,Binghamton
+1525,Mexico,Chiapa
+1526,United States of America,Atascocita
+1527,United States of America,Aurora
+1528,United States of America,Baldwin
+1529,United States of America,Batavia
+1530,United States of America,Ponca City
+1531,United States of America,Poquoson
+1532,United States of America,Scarsdale
+1533,United States of America,Roseville
+1534,United States of America,Roy
+1535,Mexico,Sabinas Hidalgo
+1536,United States of America,Saint Augustine
+1537,United States of America,San Gabriel
+1538,United States of America,Redondo Beach
+1539,United States of America,Robstown
+1540,United States of America,Danvers
+1541,United States of America,De Land
+1542,United States of America,Dickinson
+1543,United States of America,Dorado
+1544,United States of America,Duarte
+1545,United States of America,Duncanville
+1546,United States of America,Eden
+1547,Mexico,El Llano
+1548,United States of America,Elwood
+1549,United States of America,Fairborn
+1550,United States of America,Frankfort
+1551,United States of America,Freehold
+1552,United States of America,Gilroy
+1553,Canada,Sherbrooke
+1554,United States of America,Somerville
+1555,United States of America,Davenport
+1556,United States of America,Deerfield Beach
+1557,United States of America,Del City
+1558,United States of America,Deltona
+1559,United States of America,Waimalu
+1560,United States of America,Wake Forest
+1561,United States of America,West Milford
+1562,United States of America,West New York
+1563,United States of America,Willoughby
+1564,United States of America,East Bethel
+1565,United States of America,El Dorado
+1566,Mexico,Emiliano Zapata
+1567,United States of America,Fairhaven
+1568,United States of America,Fairview Park
+1569,United States of America,Marrero
+1570,United States of America,Merritt Island
+1571,United States of America,Nantucket
+1572,United States of America,Lake Grove
+1573,United States of America,Lake In The Hills
+1574,United States of America,Laurel
+1575,United States of America,Lincolnwood
+1576,Canada,Kitchener
+1577,Mexico,La Mira
+1578,United States of America,Newburg
+1579,United States of America,North Druid Hills
+1580,United States of America,Ocoee
+1581,United States of America,Lawndale
+1582,United States of America,Leesburg
+1583,United States of America,Lehigh Acres
+1584,Mexico,La Canada
+1585,United States of America,Kings Mountain
+1586,Mexico,Santa Maria Del Rio
+1587,Mexico,Piedras Negras
+1588,Mexico,Playa Del Carmen
+1589,United States of America,Pleasantville
+1590,United States of America,Portsmouth
+1591,United States of America,Rosemead
+1592,United States of America,Saginaw
+1593,United States of America,Salmon Creek
+1594,United States of America,Perrysburg
+1595,United States of America,Petaluma
+1596,United States of America,Phenix City
+1597,Canada,Rimouski
+1598,United States of America,Ramona
+1599,Canada,Red Deer
+1600,United States of America,Norristown
+1601,United States of America,North Adams
+1602,United States of America,North Saint Paul
+1603,United States of America,Norwell
+1604,United States of America,Novi
+1605,United States of America,Okemos
+1606,United States of America,Roselle
+1607,United States of America,San Anselmo
+1608,United States of America,Saratoga Springs
+1609,United States of America,Scranton
+1610,United States of America,Sheboygan
+1611,United States of America,Tallahassee
+1612,United States of America,Redford
+1613,Mexico,Jacona
+1614,United States of America,Honolulu
+1615,United States of America,Huntington Park
+1616,Canada,Brantford
+1617,Mexico,Casimiro Castillo
+1618,United States of America,Alhambra
+1619,United States of America,Deer Park
+1620,United States of America,Dickson
+1621,United States of America,Cheektowaga
+1622,United States of America,Chesterton
+1623,United States of America,Choctaw
+1624,United States of America,Colesville
+1625,United States of America,Columbia
+1626,United States of America,Westport
+1627,United States of America,Wichita
+1628,United States of America,Wylie
+1629,Canada,Yorkton
+1630,United States of America,Yucaipa
+1631,Mexico,Zaachila
+1632,Mexico,Zapotlanejo
+1633,Mexico,Tempoal
+1634,Mexico,Tequixquitla
+1635,United States of America,Warrensburg
+1636,United States of America,Warrensville Heights
+1637,United States of America,Watertown
+1638,United States of America,Webster Groves
+1639,United States of America,Tulsa
+1640,Mexico,Valtierrilla
+1641,Mexico,Oluta
+1642,Mexico,Ometepec
+1643,Mexico,Oxkutzcab
+1644,United States of America,Palos Hills
+1645,United States of America,Redan
+1646,United States of America,Rockland
+1647,United States of America,Romeoville
+1648,Mexico,Guaymas
+1649,United States of America,Hamptons At Boca Raton
+1650,United States of America,Harper Woods
+1651,United States of America,Inver Grove Heights
+1652,United States of America,Jamestown
+1653,United States of America,Jersey City
+1654,United States of America,Poway
+1655,United States of America,Prescott
+1656,United States of America,Royal Palm Beach
+1657,United States of America,Raymore
+1658,United States of America,Red Bank
+1659,United States of America,Rexburg
+1660,Mexico,Rincon De Tamayo
+1661,United States of America,Rome
+1662,United States of America,Cameron Park
+1663,Canada,Camrose
+1664,United States of America,Casper
+1665,United States of America,Cedar Hill
+1666,United States of America,Mastic Beach
+1667,United States of America,Medfield
+1668,United States of America,Mesa
+1669,United States of America,Loveland
+1670,Mexico,Manuel Doblado
+1671,Mexico,Uriangato
+1672,United States of America,Uxbridge
+1673,United States of America,Valley Station
+1674,United States of America,Van Wert
+1675,United States of America,Waltham
+1676,United States of America,Waterloo
+1677,United States of America,Wayland
+1678,United States of America,Danville
+1679,United States of America,Dekalb
+1680,United States of America,Detroit
+1681,Mexico,Coatlinchan
+1682,United States of America,Crystal
+1683,United States of America,Donna
+1684,United States of America,Bridgeton
+1685,United States of America,Orlando
+1686,Mexico,Oteapan
+1687,United States of America,Pella
+1688,Mexico,Penjamo
+1689,United States of America,Perris
+1690,United States of America,Port Orange
+1691,United States of America,Wheat Ridge
+1692,United States of America,Aberdeen
+1693,Mexico,Asuncion Nochixtlan
+1694,Mexico,Ahome
+1695,United States of America,Amherst Center
+1696,United States of America,Arlington Heights
+1697,United States of America,Asbury Park
+1698,United States of America,East Northport
+1699,United States of America,Egypt Lake Leto
+1700,Mexico,El Fuerte
+1701,United States of America,Ellington
+1702,United States of America,Elmira
+1703,Mexico,Encarnacion
+1704,United States of America,Everett
+1705,Mexico,Fernandez
+1706,United States of America,Festus
+1707,United States of America,Fillmore
+1708,United States of America,Fontana
+1709,Canada,Kelowna
+1710,United States of America,Kelso
+1711,United States of America,Key Largo
+1712,United States of America,Kingsburg
+1713,United States of America,Ladson
+1714,Mexico,Lombardia
+1715,United States of America,Lynwood
+1716,Mexico,Mapastepec
+1717,United States of America,Lansdale
+1718,United States of America,Mission
+1719,United States of America,Newport Beach
+1720,United States of America,Niceville
+1721,United States of America,North Bethesda
+1722,United States of America,North Marysville
+1723,United States of America,North Palm Beach
+1724,United States of America,Chantilly
+1725,Mexico,Cheran
+1726,United States of America,Cheyenne
+1727,United States of America,Easton
+1728,United States of America,Elizabethtown
+1729,United States of America,Holden
+1730,United States of America,Houston
+1731,Mexico,Ensenada
+1732,United States of America,Fajardo
+1733,United States of America,Fern Creek
+1734,United States of America,Fort Lee
+1735,Mexico,Miahuatlan
+1736,United States of America,Mobile
+1737,Canada,Montreal
+1738,United States of America,Moore
+1739,United States of America,Nogales
+1740,United States of America,North Lindenhurst
+1741,United States of America,North Port
+1742,United States of America,Oconomowoc
+1743,Mexico,Octopan
+1744,United States of America,Mount Pleasant
+1745,Mexico,Nanacamilpa
+1746,United States of America,Mexico
+1747,United States of America,Torrington
+1748,United States of America,Seguin
+1749,Mexico,Teocaltiche
+1750,Mexico,Tetla
+1751,United States of America,Southfield
+1752,United States of America,Spring Hill
+1753,United States of America,Stockbridge
+1754,Canada,Sudbury
+1755,Mexico,Tarimoro
+1756,United States of America,Sharon
+1757,United States of America,Shasta Lake
+1758,United States of America,Randolph
+1759,United States of America,Red Wing
+1760,Mexico,Reforma
+1761,Mexico,Reynosa
+1762,United States of America,Rock Springs
+1763,United States of America,Rosemont
+1764,United States of America,Salisbury
+1765,Mexico,San Agustin
+1766,Mexico,San Sebastian El Grande
+1767,United States of America,Beverly Hills
+1768,United States of America,Bexley
+1769,United States of America,Broken Arrow
+1770,Mexico,Cancun
+1771,United States of America,Central Point
+1772,Mexico,Cerro Azul
+1773,United States of America,Champlin
+1774,United States of America,South Miami
+1775,United States of America,Sterling
+1776,United States of America,Streamwood
+1777,United States of America,Sugar Hill
+1778,Mexico,Gonzalez
+1779,United States of America,Grapevine
+1780,United States of America,Great Falls
+1781,United States of America,Harrisonburg
+1782,United States of America,Ives Estates
+1783,United States of America,Jacinto City
+1784,United States of America,Kalispell
+1785,United States of America,Kewanee
+1786,United States of America,Maumelle
+1787,United States of America,Midwest City
+1788,United States of America,Mount Juliet
+1789,United States of America,Muncie
+1790,United States of America,Muskogee
+1791,United States of America,Piedmont
+1792,United States of America,Pleasanton
+1793,United States of America,Port Chester
+1794,United States of America,Porterville
+1795,United States of America,Pottstown
+1796,United States of America,Norco
+1797,United States of America,North Aurora
+1798,United States of America,Oakville
+1799,United States of America,Ogden
+1800,United States of America,Olympia
+1801,United States of America,Paducah
+1802,United States of America,Pekin
+1803,United States of America,Bellingham
+1804,United States of America,Cabo Rojo
+1805,United States of America,Carmel
+1806,United States of America,Cathedral City
+1807,United States of America,Chillum
+1808,United States of America,Chino Hills
+1809,United States of America,Arroyo Grande
+1810,United States of America,Ashtabula
+1811,United States of America,Atascadero
+1812,United States of America,Del Rio
+1813,United States of America,Denver
+1814,United States of America,Dixon
+1815,United States of America,Douglasville
+1816,United States of America,East Los Angeles
+1817,United States of America,Edina
+1818,United States of America,Eldersburg
+1819,United States of America,Estelle
+1820,United States of America,Eustis
+1821,Canada,Fort Erie
+1822,United States of America,Fort Smith
+1823,United States of America,Franconia
+1824,United States of America,Garland
+1825,United States of America,Dubuque
+1826,United States of America,Duxbury
+1827,United States of America,East Lansing
+1828,Mexico,Ecatepec
+1829,United States of America,Dearborn Heights
+1830,United States of America,Doctor Phillips
+1831,United States of America,Forest Lake
+1832,United States of America,Kingsport
+1833,United States of America,La Verne
+1834,Mexico,Lagos De Moreno
+1835,Mexico,Las Choapas
+1836,United States of America,Lauderdale Lakes
+1837,Canada,Leduc
+1838,United States of America,Sherrelwood
+1839,United States of America,Saint Louis Park
+1840,United States of America,San Marino
+1841,United States of America,Channelview
+1842,United States of America,Cherryland
+1843,United States of America,Clemmons
+1844,Mexico,Coacalco
+1845,United States of America,Crowley
+1846,United States of America,Cutlerville
+1847,United States of America,Seattle
+1848,United States of America,Sedalia
+1849,United States of America,Seymour
+1850,United States of America,Sharonville
+1851,United States of America,Shrewsbury
+1852,United States of America,Simi Valley
+1853,United States of America,Simpsonville
+1854,United States of America,Socastee
+1855,United States of America,Stockton
+1856,United States of America,Morristown
+1857,Mexico,Nealtican
+1858,United States of America,Nicholasville
+1859,United States of America,Langley Park
+1860,United States of America,Millbrook
+1861,United States of America,Milwaukie
+1862,United States of America,Mission Bend
+1863,United States of America,Panthersville
+1864,Mexico,Panuco
+1865,United States of America,Pewaukee
+1866,United States of America,Pullman
+1867,United States of America,North Valley
+1868,United States of America,Raynham
+1869,United States of America,Maynard
+1870,Canada,Midland
+1871,United States of America,Minot
+1872,United States of America,Murray
+1873,United States of America,Nixa
+1874,United States of America,Noblesville
+1875,Mexico,Nuevo Laredo
+1876,United States of America,Ridgewood
+1877,United States of America,Peabody
+1878,United States of America,Westminster
+1879,United States of America,Wabash
+1880,Canada,Wallaceburg
+1881,United States of America,Hanover Park
+1882,United States of America,Goodyear
+1883,United States of America,Lake Wales
+1884,United States of America,Lilburn
+1885,United States of America,Little Elm
+1886,United States of America,La Quinta
+1887,United States of America,Hammond
+1888,United States of America,Hamtramck
+1889,United States of America,Helena
+1890,United States of America,Huntington
+1891,Canada,Kenora
+1892,Canada,Kentville
+1893,United States of America,Albertville
+1894,Mexico,Aldama
+1895,Canada,Ingersoll
+1896,United States of America,Greenfield
+1897,United States of America,Guttenberg
+1898,United States of America,Hawaiian Gardens
+1899,United States of America,Henderson
+1900,United States of America,Holladay
+1901,United States of America,Hope Mills
+1902,United States of America,Hopkinsville
+1903,United States of America,Compton
+1904,United States of America,Cranston
+1905,United States of America,Grand Terrace
+1906,United States of America,Franklin Lakes
+1907,United States of America,Fredonia
+1908,Mexico,Frontera
+1909,United States of America,Escanaba
+1910,United States of America,Evans
+1911,United States of America,Evansville
+1912,United States of America,Fair Lawn
+1913,United States of America,Fairland
+1914,United States of America,Flagstaff
+1915,United States of America,Rancho Santa Margarita
+1916,United States of America,Rutland
+1917,Mexico,San Juan De Las Huertas
+1918,United States of America,Ottumwa
+1919,United States of America,Parkersburg
+1920,United States of America,Pinole
+1921,United States of America,Pompano Beach
+1922,United States of America,North Charleston
+1923,United States of America,South Daytona
+1924,United States of America,South Euclid
+1925,United States of America,Joppatowne
+1926,United States of America,Hamilton
+1927,United States of America,Hays
+1928,United States of America,Hercules
+1929,United States of America,Lake Zurich
+1930,Mexico,Mexicali
+1931,United States of America,Miami Lakes
+1932,United States of America,Minden
+1933,United States of America,Mounds View
+1934,Mexico,Macuspana
+1935,United States of America,Marquette
+1936,Mexico,Matias Romero
+1937,United States of America,Mehlville
+1938,United States of America,Melville
+1939,United States of America,Yarmouth
+1940,Mexico,Zihuatanejo
+1941,United States of America,Tenafly
+1942,Mexico,Tenango De Arista
+1943,Mexico,Tenango De Rio Blanco
+1944,United States of America,Town And Country
+1945,United States of America,Owasso
+1946,Canada,Quesnel
+1947,United States of America,Redmond
+1948,United States of America,Rockford
+1949,United States of America,West Jordan
+1950,United States of America,West Valley City
+1951,United States of America,Whitewater
+1952,Mexico,Patzcuaro
+1953,United States of America,Port Arthur
+1954,United States of America,Glen Ellyn
+1955,United States of America,Glens Falls
+1956,United States of America,Goshen
+1957,United States of America,Herrin
+1958,United States of America,Highland Park
+1959,United States of America,Ewing
+1960,United States of America,Fort Hunt
+1961,United States of America,Pinewood
+1962,Mexico,Atencingo
+1963,United States of America,Bellwood
+1964,United States of America,Bismarck
+1965,United States of America,Boone
+1966,United States of America,Borger
+1967,United States of America,Brookings
+1968,United States of America,Canby
+1969,United States of America,Cedar Grove
+1970,United States of America,Sarasota
+1971,Mexico,Saucillo
+1972,United States of America,Scotts Valley
+1973,United States of America,Shirley
+1974,Mexico,Acatlan
+1975,Mexico,Altotonga
+1976,United States of America,Anniston
+1977,Mexico,Arandas
+1978,Mexico,Sombrerete
+1979,United States of America,South Laurel
+1980,United States of America,South Portland
+1981,United States of America,South Yuba City
+1982,United States of America,Clawson
+1983,United States of America,Cleburne
+1984,United States of America,Cleveland Heights
+1985,United States of America,Tucker
+1986,United States of America,Acton
+1987,United States of America,Ann Arbor
+1988,United States of America,Ansonia
+1989,United States of America,Arlington
+1990,Mexico,Autopan
+1991,United States of America,Sunrise
+1992,United States of America,Sussex
+1993,United States of America,Ware
+1994,United States of America,Weslaco
+1995,United States of America,West Haven
+1996,United States of America,West Linn
+1997,United States of America,Worth
+1998,Mexico,Xalmimilulco
+1999,United States of America,Powder Springs
+2000,United States of America,Radford
+2001,Canada,Lloydminster
+2002,United States of America,Mandeville
+2003,United States of America,Marana
+2004,United States of America,Shiloh
+2005,United States of America,Rockledge
+2006,United States of America,Goldsboro
+2007,United States of America,Green River
+2008,United States of America,Grosse Pointe Park
+2009,United States of America,Hasbrouck Heights
+2010,United States of America,Hattiesburg
+2011,United States of America,Hilton Head Island
+2012,United States of America,Hingham
+2013,United States of America,Kansas City
+2014,Mexico,Teolocholco
+2015,Canada,Tilsonburg
+2016,Mexico,Tlaltizapan
+2017,Mexico,Tlaxco
+2018,Mexico,Trancoso
+2019,United States of America,South El Monte
+2020,United States of America,Stony Brook
+2021,United States of America,Doraville
+2022,United States of America,East Cleveland
+2023,United States of America,East Highland Park
+2024,United States of America,Darby
+2025,Mexico,Acatzingo
+2026,United States of America,Alexander City
+2027,United States of America,Anderson
+2028,Mexico,Apatlaco
+2029,Mexico,Atotonilco El Alto
+2030,United States of America,Baldwin Park
+2031,United States of America,Baltimore
+2032,United States of America,Barrington
+2033,United States of America,Baton Rouge
+2034,United States of America,Beloit
+2035,United States of America,Blythe
+2036,United States of America,Bonita Springs
+2037,United States of America,Bozeman
+2038,United States of America,Bucyrus
+2039,United States of America,Calhoun
+2040,United States of America,Carbondale
+2041,Mexico,Chiconcuac
+2042,United States of America,Cockeysville
+2043,United States of America,Coral Springs
+2044,Mexico,Costa Rica
+2045,Mexico,Cuautitlan
+2046,United States of America,Camp Springs
+2047,Mexico,Cananea
+2048,United States of America,Centennial
+2049,Canada,Chilliwack
+2050,Mexico,Cuauhtemoc
+2051,United States of America,Dale City
+2052,United States of America,Coachella
+2053,Mexico,Colotlan
+2054,United States of America,Orange
+2055,United States of America,Oxford
+2056,Mexico,Tehuantepec
+2057,Mexico,Tequisquiapan
+2058,Mexico,Texmelucan
+2059,United States of America,Springfield
+2060,United States of America,Sunnyvale
+2061,Mexico,Valle De Bravo
+2062,Canada,Saskatoon
+2063,United States of America,Sauk Village
+2064,United States of America,Mint Hill
+2065,United States of America,Mitchell
+2066,United States of America,Monterey
+2067,United States of America,North Haven
+2068,Canada,Okotoks
+2069,United States of America,Olathe
+2070,United States of America,Pinecrest
+2071,United States of America,Neenah
+2072,United States of America,Marlton
+2073,United States of America,Martinsburg
+2074,Canada,Medicine Hat
+2075,Mexico,Zacapu
+2076,United States of America,West Covina
+2077,United States of America,Westfield
+2078,United States of America,Willowick
+2079,United States of America,Watauga
+2080,United States of America,Alton
+2081,Mexico,Apaseo El Alto
+2082,United States of America,New Baltimore
+2083,United States of America,New Smyrna Beach
+2084,Mexico,Nicolas Romero
+2085,United States of America,Martha Lake
+2086,United States of America,Merrydale
+2087,United States of America,Ojus
+2088,Canada,Moncton
+2089,United States of America,Gladstone
+2090,United States of America,Green
+2091,United States of America,Grosse Pointe Woods
+2092,United States of America,Brookfield
+2093,Canada,Buckingham
+2094,United States of America,Carolina
+2095,United States of America,Las Vegas
+2096,United States of America,Lehi
+2097,United States of America,Davie
+2098,United States of America,Olney
+2099,United States of America,Palm Coast
+2100,Mexico,Actopan
+2101,United States of America,Adrian
+2102,United States of America,Birmingham
+2103,United States of America,Bloomsburg
+2104,United States of America,Bristol
+2105,Mexico,Coatzintla
+2106,United States of America,Frederick
+2107,United States of America,Holyoke
+2108,Mexico,Huatabampo
+2109,United States of America,Coos Bay
+2110,United States of America,Crestline
+2111,United States of America,Crestview
+2112,United States of America,Cross Lanes
+2113,United States of America,Fort Thomas
+2114,United States of America,Galveston
+2115,United States of America,Hudson
+2116,United States of America,Duluth
+2117,United States of America,East Renton Highlands
+2118,Canada,Edmonton
+2119,United States of America,San Dimas
+2120,United States of America,Spokane
+2121,Canada,New Glasgow
+2122,United States of America,Tifton
+2123,United States of America,Middle Valley
+2124,Mexico,Momoxpan
+2125,United States of America,Wanaque
+2126,United States of America,Waterville
+2127,United States of America,Trussville
+2128,United States of America,Tyler
+2129,United States of America,Tolland
+2130,United States of America,Laplace
+2131,United States of America,Leawood
+2132,Canada,Lindsay
+2133,United States of America,Logan
+2134,United States of America,Manhattan Beach
+2135,United States of America,Manville
+2136,United States of America,Maple Shade
+2137,United States of America,Lacey
+2138,Mexico,Tecamachalco
+2139,United States of America,Thibodaux
+2140,United States of America,University Place
+2141,Mexico,Victor Rosales
+2142,United States of America,Sterling Heights
+2143,United States of America,Storrs
+2144,Canada,Summerside
+2145,United States of America,Warrington
+2146,United States of America,Seaford
+2147,United States of America,Sioux Falls
+2148,Mexico,San Luis De La Paz
+2149,United States of America,Glasgow
+2150,United States of America,Hammonton
+2151,United States of America,Hanson
+2152,United States of America,Hershey
+2153,United States of America,Hialeah Gardens
+2154,United States of America,Hollywood
+2155,United States of America,Hopkins
+2156,United States of America,Jasmine Estates
+2157,United States of America,La Mesa
+2158,United States of America,Lansing
+2159,Mexico,Las Rosas
+2160,United States of America,Linda
+2161,United States of America,Lindenwold
+2162,United States of America,Little Chute
+2163,United States of America,Livonia
+2164,Mexico,Los Reyes
+2165,United States of America,Ludlow
+2166,United States of America,Marietta
+2167,United States of America,Mission Viejo
+2168,United States of America,Munhall
+2169,United States of America,New Cassel
+2170,United States of America,North Amityville
+2171,United States of America,North Canton
+2172,United States of America,Northbrook
+2173,Canada,Fergus
+2174,United States of America,Foster City
+2175,United States of America,Decatur
+2176,United States of America,Dentsville
+2177,United States of America,East Ridge
+2178,United States of America,Elk Grove
+2179,United States of America,Bellefontaine
+2180,United States of America,Big Rapids
+2181,United States of America,Bogalusa
+2182,United States of America,Bossier City
+2183,United States of America,Brook Park
+2184,Canada,Brooks
+2185,United States of America,Brunswick
+2186,Mexico,Capilla De Guadalupe
+2187,United States of America,Acushnet
+2188,Mexico,Agua Dulce
+2189,Mexico,Aguascalientes
+2190,United States of America,Altamonte Springs
+2191,United States of America,Coamo
+2192,United States of America,Riviera Beach
+2193,United States of America,Rolla
+2194,United States of America,Placentia
+2195,United States of America,Port Saint Lucie
+2196,United States of America,Pottsville
+2197,Mexico,Peto
+2198,United States of America,Bonita
+2199,Mexico,Abasolo
+2200,Canada,Amos
+2201,United States of America,Arnold
+2202,United States of America,Bryant
+2203,United States of America,Buffalo Grove
+2204,United States of America,Cadillac
+2205,United States of America,Cedar Park
+2206,United States of America,Channahon
+2207,Mexico,Charcas
+2208,United States of America,Chesterfield
+2209,United States of America,Carson City
+2210,Mexico,Chilapa
+2211,United States of America,Anoka
+2212,United States of America,Arcadia
+2213,United States of America,West Hartford
+2214,United States of America,West Springfield
+2215,United States of America,Yakima
+2216,Mexico,Yaqui
+2217,Canada,Barrie
+2218,Canada,Whitchurch Stouffville
+2219,Canada,Winnipeg
+2220,Mexico,Axochiapan
+2221,Mexico,Calvillo
+2222,United States of America,Cocoa Beach
+2223,United States of America,Crossville
+2224,United States of America,Prairie Village
+2225,United States of America,Green Bay
+2226,United States of America,Garner
+2227,United States of America,Howard
+2228,Mexico,Gustavo Diaz Ordaz
+2229,Mexico,La Cruz
+2230,United States of America,Faribault
+2231,United States of America,Foothill Farms
+2232,United States of America,Fort Carson
+2233,Mexico,Dzitbalche
+2234,Mexico,Eagle Pass
+2235,United States of America,Easley
+2236,United States of America,East Massapequa
+2237,United States of America,Elizabeth City
+2238,United States of America,Elizabeth
+2239,United States of America,Olympia Heights
+2240,United States of America,Opelousas
+2241,United States of America,Ottawa
+2242,United States of America,Owensboro
+2243,United States of America,Long Branch
+2244,United States of America,Mansfield
+2245,United States of America,Merrillville
+2246,United States of America,Oneida
+2247,United States of America,Overland
+2248,United States of America,North Providence
+2249,United States of America,Oak Harbor
+2250,United States of America,Moorpark
+2251,United States of America,Mountain Brook
+2252,United States of America,Newington
+2253,United States of America,Millburn
+2254,United States of America,Milwaukee
+2255,United States of America,Allen
+2256,United States of America,Baraboo
+2257,United States of America,Baytown
+2258,United States of America,Bellmawr
+2259,United States of America,Brookline
+2260,United States of America,Cherry Hill
+2261,Mexico,Ajoloapan
+2262,United States of America,Bartlett
+2263,United States of America,Bensenville
+2264,United States of America,Cape Girardeau
+2265,United States of America,Athens
+2266,Mexico,Atlacomulco
+2267,United States of America,Downey
+2268,Canada,Drummondville
+2269,United States of America,East Haven
+2270,United States of America,Eastlake
+2271,United States of America,Eden Prairie
+2272,United States of America,Des Plaines
+2273,United States of America,Phoenixville
+2274,Mexico,Queretaro
+2275,United States of America,Renton
+2276,Mexico,Rafael Lara Grajales
+2277,United States of America,Saddle Brook
+2278,United States of America,Hanover
+2279,United States of America,Hazleton
+2280,United States of America,Fortuna
+2281,Mexico,Huixquilucan
+2282,United States of America,Commack
+2283,Mexico,Cosamaloapan
+2284,United States of America,Cullman
+2285,United States of America,Lake City
+2286,United States of America,Shafter
+2287,United States of America,Snyder
+2288,Mexico,San Gabriel Casa Blanca
+2289,United States of America,Sandwich
+2290,United States of America,Southgate
+2291,United States of America,Tavares
+2292,United States of America,Terre Haute
+2293,United States of America,Thornton
+2294,United States of America,Tonawanda
+2295,United States of America,Tooele
+2296,United States of America,Twinsburg
+2297,Mexico,Uman
+2298,United States of America,Westerly
+2299,United States of America,White Bear Lake
+2300,United States of America,White Center
+2301,United States of America,Wixom
+2302,United States of America,Visalia
+2303,United States of America,Ironton
+2304,United States of America,Iselin
+2305,Mexico,Juchitan
+2306,United States of America,Kaysville
+2307,United States of America,Kenosha
+2308,United States of America,Eastchester
+2309,United States of America,Elkridge
+2310,United States of America,Elyria
+2311,United States of America,New Braunfels
+2312,United States of America,New Orleans
+2313,Mexico,Santiago Tuxtla
+2314,United States of America,Scottsboro
+2315,United States of America,River Forest
+2316,Canada,Salmon Arm
+2317,United States of America,Marshalltown
+2318,United States of America,Tewksbury
+2319,United States of America,Tiffin
+2320,United States of America,Shoreview
+2321,United States of America,North Highlands
+2322,Mexico,Ojinaga
+2323,United States of America,Pico Rivera
+2324,United States of America,Pikesville
+2325,United States of America,West Allis
+2326,United States of America,Wahiawa
+2327,United States of America,Leavenworth
+2328,United States of America,Los Gatos
+2329,United States of America,Lyndhurst
+2330,Mexico,Madera
+2331,United States of America,Magalia
+2332,United States of America,Makakilo City
+2333,United States of America,Mamaroneck
+2334,United States of America,Independence
+2335,United States of America,Inglewood
+2336,United States of America,Kihei
+2337,United States of America,Laconia
+2338,United States of America,Lake Forest
+2339,United States of America,Lake Saint Louis
+2340,Mexico,Libres
+2341,United States of America,San Leandro
+2342,Mexico,San Marcos
+2343,Mexico,San Martin De Las Piramides
+2344,United States of America,Revere
+2345,United States of America,Southaven
+2346,United States of America,Stony Point
+2347,United States of America,Grayslake
+2348,United States of America,Gastonia
+2349,United States of America,Germantown
+2350,United States of America,Hermitage
+2351,United States of America,Hesperia
+2352,United States of America,Hoover
+2353,Mexico,Huejutla
+2354,Mexico,Jalpa
+2355,Mexico,Juchitepec
+2356,Canada,Dolbeau
+2357,United States of America,Dunn
+2358,United States of America,Forest Acres
+2359,United States of America,Kent
+2360,United States of America,Farmers Branch
+2361,United States of America,Keller
+2362,United States of America,Jericho
+2363,Canada,Kamloops
+2364,United States of America,Republic
+2365,United States of America,Ruston
+2366,United States of America,De Pere
+2367,United States of America,Edgewater
+2368,United States of America,Maryland Heights
+2369,United States of America,Massapequa
+2370,United States of America,Maywood
+2371,United States of America,Meadville
+2372,United States of America,Montgomery Village
+2373,United States of America,Sunland Park
+2374,Mexico,Tacambaro
+2375,United States of America,North Ridgeville
+2376,Mexico,Nuevo San Juan Parangaricutiro
+2377,Mexico,Ocosingo
+2378,Mexico,Las Guacamayas
+2379,United States of America,Ledyard
+2380,United States of America,Peekskill
+2381,Mexico,Villahermosa
+2382,United States of America,Warren
+2383,United States of America,Wasco
+2384,United States of America,Wayne
+2385,United States of America,West Paterson
+2386,United States of America,Wheaton
+2387,United States of America,Yuma
+2388,Mexico,Zapotiltic
+2389,Mexico,Acuna
+2390,United States of America,Clovis
+2391,Mexico,Cueramaro
+2392,Mexico,Zapopan
+2393,United States of America,Avenal
+2394,Mexico,Bacalar
+2395,United States of America,Cumberland
+2396,United States of America,Bennington
+2397,United States of America,Brooklyn
+2398,United States of America,Burleson
+2399,United States of America,Burnsville
+2400,United States of America,Burton
+2401,United States of America,Cahokia
+2402,United States of America,Caguas
+2403,United States of America,Topsham
+2404,United States of America,Tukwila
+2405,United States of America,Valley Stream
+2406,United States of America,Van Buren
+2407,United States of America,Bostonia
+2408,United States of America,Sunset
+2409,United States of America,Brea
+2410,United States of America,Tacoma
+2411,United States of America,Takoma Park
+2412,United States of America,West Columbia
+2413,United States of America,Windsor
+2414,Mexico,Zumpango
+2415,United States of America,Cookeville
+2416,United States of America,Coppell
+2417,United States of America,Cupertino
+2418,United States of America,Washougal
+2419,United States of America,Waukegan
+2420,United States of America,Raleigh
+2421,United States of America,Miamisburg
+2422,Canada,Milton
+2423,Mexico,Rio Bravo
+2424,United States of America,Rock Island
+2425,Mexico,Huimanguillo
+2426,Mexico,Huitzuco
+2427,United States of America,North Bay Shore
+2428,United States of America,North Decatur
+2429,Mexico,Anahuac
+2430,United States of America,Banning
+2431,United States of America,Bourbonnais
+2432,United States of America,Calabasas
+2433,Mexico,Colima
+2434,United States of America,Corcoran
+2435,Mexico,Guadalupe Victoria
+2436,United States of America,Haltom City
+2437,United States of America,Hannibal
+2438,United States of America,Holt
+2439,United States of America,Palatka
+2440,Mexico,Paracho
+2441,United States of America,San Luis Obispo
+2442,United States of America,Framingham
+2443,Canada,Fredericton
+2444,United States of America,South Orange
+2445,United States of America,Stevens Point
+2446,Canada,Riviere Du Loup
+2447,United States of America,Roseburg
+2448,United States of America,Aiken
+2449,United States of America,Somers
+2450,United States of America,Passaic
+2451,United States of America,Pembroke
+2452,United States of America,Pine Hill
+2453,United States of America,Piqua
+2454,United States of America,Port Charlotte
+2455,United States of America,Seabrook
+2456,United States of America,Sedona
+2457,United States of America,Smithfield
+2458,United States of America,Painesville
+2459,United States of America,Bayshore Gardens
+2460,Canada,Bradford
+2461,United States of America,Cedar City
+2462,United States of America,Conneaut
+2463,United States of America,Corning
+2464,United States of America,Corozal
+2465,United States of America,Crown Point
+2466,United States of America,Cypress
+2467,United States of America,Aliso Viejo
+2468,United States of America,Asheville
+2469,United States of America,Berwyn
+2470,United States of America,Braintree
+2471,Mexico,Celaya
+2472,United States of America,Centreville
+2473,United States of America,Cleveland
+2474,United States of America,Affton
+2475,United States of America,Kirkland
+2476,United States of America,Layton
+2477,United States of America,Little Rock
+2478,Mexico,Nacozari
+2479,United States of America,Naperville
+2480,United States of America,Northfield
+2481,Mexico,Oaxaca
+2482,United States of America,Macon
+2483,United States of America,Kings Park
+2484,United States of America,Lenoir
+2485,United States of America,Libertyville
+2486,United States of America,Lubbock
+2487,United States of America,Lumberton
+2488,United States of America,Macedonia
+2489,Mexico,San Juan Del Rio
+2490,Canada,Port Hope
+2491,United States of America,Granite City
+2492,United States of America,Greenbelt
+2493,United States of America,Hopatcong
+2494,United States of America,Horsham
+2495,United States of America,Jacksonville Beach
+2496,United States of America,Jupiter
+2497,United States of America,Kentwood
+2498,United States of America,Citrus Park
+2499,United States of America,Apple Valley
+2500,Mexico,Ario
+2501,United States of America,Euless
+2502,United States of America,Speedway
+2503,United States of America,State College
+2504,United States of America,Coram
+2505,United States of America,Council Bluffs
+2506,United States of America,Severn
+2507,United States of America,Shenandoah
+2508,United States of America,Lake Shore
+2509,Mexico,Laredo
+2510,United States of America,New Philadelphia
+2511,United States of America,North Berwick
+2512,United States of America,Oil City
+2513,United States of America,Escondido
+2514,Mexico,Ezequiel Montes
+2515,United States of America,Fair Oaks
+2516,United States of America,Fairview Shores
+2517,United States of America,Freeport
+2518,United States of America,Dallas
+2519,United States of America,East Chicago
+2520,United States of America,Rancho Cordova
+2521,United States of America,Richfield
+2522,United States of America,Ontario
+2523,Mexico,Pabellon De Arteaga
+2524,United States of America,Palestine
+2525,United States of America,Palm City
+2526,United States of America,Palmer
+2527,United States of America,Atlantic Beach
+2528,Mexico,Altepexi
+2529,Canada,Sorel
+2530,United States of America,South Saint Paul
+2531,United States of America,Fergus Falls
+2532,United States of America,La Grange
+2533,Mexico,Pichucalco
+2534,Mexico,Tamazunchale
+2535,Mexico,Teapa
+2536,Mexico,Tekax
+2537,United States of America,Tinton Falls
+2538,Mexico,Tixkokob
+2539,Mexico,Tixtla
+2540,Mexico,Tlaquiltenango
+2541,United States of America,Wethersfield
+2542,Mexico,Xicohtzinco
+2543,United States of America,Fulton
+2544,United States of America,Los Alamos
+2545,United States of America,Moberly
+2546,United States of America,Morganton
+2547,United States of America,New London
+2548,United States of America,Hermiston
+2549,United States of America,High Point
+2550,United States of America,Saratoga
+2551,United States of America,Saugus
+2552,United States of America,Shaker Heights
+2553,United States of America,South Salt Lake
+2554,United States of America,Guymon
+2555,Canada,Hawkesbury
+2556,United States of America,Homewood
+2557,United States of America,Hurst
+2558,United States of America,Connersville
+2559,United States of America,Covina
+2560,Mexico,Dolores Hidalgo
+2561,United States of America,East Peoria
+2562,United States of America,Eau Claire
+2563,United States of America,Edinburg
+2564,United States of America,El Centro
+2565,Mexico,El Grullo
+2566,Mexico,Tulancingo
+2567,Mexico,Tlapa
+2568,United States of America,Glassboro
+2569,United States of America,Grand Island
+2570,United States of America,West Carson
+2571,United States of America,West Lafayette
+2572,United States of America,White Oak
+2573,United States of America,Whitefish Bay
+2574,United States of America,Wilmington Island
+2575,United States of America,Windsor Locks
+2576,Mexico,Teoloyucan
+2577,United States of America,Prescott Valley
+2578,Mexico,Puerto Escondido
+2579,United States of America,Rancho San Diego
+2580,Mexico,Rosarito
+2581,United States of America,San Benito
+2582,United States of America,Sapulpa
+2583,United States of America,Park Forest
+2584,United States of America,Pflugerville
+2585,United States of America,Smyrna
+2586,United States of America,Solana Beach
+2587,United States of America,Swansea
+2588,Canada,Sylvan Lake
+2589,United States of America,Syosset
+2590,United States of America,South Milwaukee
+2591,United States of America,Shakopee
+2592,United States of America,North Mankato
+2593,United States of America,Northport
+2594,United States of America,Nutley
+2595,Mexico,Navolato
+2596,United States of America,Morton Grove
+2597,United States of America,Mishawaka
+2598,United States of America,Indiana
+2599,United States of America,King Of Prussia
+2600,United States of America,Omaha
+2601,United States of America,Owatonna
+2602,United States of America,Dyer
+2603,United States of America,East Orange
+2604,United States of America,El Mirage
+2605,United States of America,Garfield
+2606,Mexico,Felipe Carrillo Puerto
+2607,United States of America,Fort Lauderdale
+2608,United States of America,Harwich
+2609,Canada,Dawson Creek
+2610,United States of America,Delano
+2611,United States of America,Dumont
+2612,United States of America,East Providence
+2613,United States of America,Naples
+2614,Mexico,Naucalpan
+2615,United States of America,Norton Shores
+2616,United States of America,Oak Forest
+2617,United States of America,Sachse
+2618,United States of America,Saint Michael
+2619,Mexico,Salvatierra
+2620,United States of America,Reidsville
+2621,Mexico,Acala
+2622,Mexico,Ameca
+2623,United States of America,Arecibo
+2624,United States of America,Lawton
+2625,United States of America,Laguna Niguel
+2626,United States of America,East Longmeadow
+2627,United States of America,Marion
+2628,United States of America,Middleton
+2629,United States of America,Moultrie
+2630,United States of America,Yonkers
+2631,United States of America,Haddonfield
+2632,United States of America,Hemet
+2633,Mexico,Hidalgo
+2634,United States of America,Kilgore
+2635,United States of America,West Babylon
+2636,United States of America,West Puente Valley
+2637,United States of America,West Sacramento
+2638,United States of America,Warner Robins
+2639,United States of America,Wausau
+2640,United States of America,Findlay
+2641,United States of America,Cocoa
+2642,United States of America,Coffeyville
+2643,United States of America,Culver City
+2644,United States of America,Pooler
+2645,Mexico,Progreso
+2646,Canada,Quebec
+2647,United States of America,Opelika
+2648,United States of America,Palmdale
+2649,Canada,Peterborough
+2650,United States of America,Morris
+2651,Mexico,Muzquiz
+2652,United States of America,Nanuet
+2653,United States of America,Naugatuck
+2654,United States of America,North Miami Beach
+2655,Mexico,Ojo Caliente
+2656,United States of America,Temple
+2657,Mexico,Tesistan
+2658,Mexico,Tihuatlan
+2659,Canada,Timmins
+2660,United States of America,Virginia Beach
+2661,United States of America,Wantagh
+2662,United States of America,Palm Harbor
+2663,United States of America,Richton Park
+2664,United States of America,Rockville
+2665,United States of America,Westbrook
+2666,United States of America,Wooster
+2667,United States of America,Pecan Grove
+2668,United States of America,Plantation
+2669,United States of America,Seminole
+2670,United States of America,Avon
+2671,United States of America,Barstow
+2672,United States of America,Bay City
+2673,United States of America,South Sioux City
+2674,Canada,Spruce Grove
+2675,United States of America,Sumter
+2676,Mexico,Agua Prieta
+2677,United States of America,Vadnais Heights
+2678,Canada,Duncan
+2679,United States of America,East Bridgewater
+2680,Mexico,Gomez Palacio
+2681,United States of America,Gulf Gate Estates
+2682,United States of America,Melbourne
+2683,United States of America,Missoula
+2684,United States of America,Lake Ronkonkoma
+2685,United States of America,Leisure City
+2686,United States of America,Louisville
+2687,United States of America,Kennett
+2688,United States of America,Irondequoit
+2689,United States of America,Issaquah
+2690,United States of America,Jenks
+2691,United States of America,Hanford
+2692,United States of America,La Canada Flintridge
+2693,United States of America,La Riviera
+2694,United States of America,Tuskegee
+2695,United States of America,Amarillo
+2696,United States of America,Anaheim
+2697,Canada,Collingwood
+2698,United States of America,Columbine
+2699,United States of America,Alameda
+2700,United States of America,Beacon
+2701,United States of America,West Freehold
+2702,United States of America,Whitman
+2703,United States of America,Yorba Linda
+2704,Mexico,Tianguistenco
+2705,Mexico,Valle De Santiago
+2706,United States of America,Brewster
+2707,United States of America,Broadview Heights
+2708,Canada,Grosse Ile
+2709,United States of America,Guthrie
+2710,United States of America,Hamden
+2711,United States of America,Horn Lake
+2712,Canada,Elliot Lake
+2713,United States of America,Peoria
+2714,United States of America,Rancho Palos Verdes
+2715,United States of America,Raytown
+2716,United States of America,River Falls
+2717,Canada,Saint Georges
+2718,Mexico,Tenosique
+2719,United States of America,Los Alamitos
+2720,United States of America,Madison
+2721,United States of America,Madisonville
+2722,United States of America,Manitowoc
+2723,United States of America,Mount Dora
+2724,United States of America,New Brunswick
+2725,United States of America,Oildale
+2726,United States of America,Justice
+2727,United States of America,New Brighton
+2728,United States of America,Newberry
+2729,United States of America,Easthampton
+2730,United States of America,Elk River
+2731,Mexico,Huauchinango
+2732,United States of America,Huntsville
+2733,Mexico,Palenque
+2734,United States of America,Paradise
+2735,United States of America,Pine Bluff
+2736,United States of America,Reno
+2737,Mexico,San Buenaventura
+2738,Mexico,San Salvador El Seco
+2739,United States of America,San Sebastian
+2740,United States of America,Sylacauga
+2741,United States of America,Statesboro
+2742,United States of America,Westmont
+2743,United States of America,Zachary
+2744,Mexico,Zacatecas
+2745,Mexico,Zacatelco
+2746,Mexico,Garza Garcia
+2747,United States of America,Greeley
+2748,United States of America,Brent
+2749,United States of America,Buffalo
+2750,United States of America,Franklin Square
+2751,United States of America,Citrus
+2752,Mexico,Comitan
+2753,United States of America,El Paso
+2754,United States of America,Eufaula
+2755,United States of America,Bettendorf
+2756,Mexico,San Miguel El Alto
+2757,Mexico,Santa Rosalia
+2758,United States of America,Cudahy
+2759,United States of America,Verona
+2760,United States of America,West Hempstead
+2761,United States of America,Whitehall
+2762,United States of America,Williston
+2763,United States of America,Wood Dale
+2764,United States of America,Wauwatosa
+2765,United States of America,Kearny
+2766,United States of America,Pinehurst
+2767,United States of America,Pittsburg
+2768,Canada,Kingston
+2769,United States of America,Sartell
+2770,United States of America,Port Lavaca
+2771,United States of America,Pell City
+2772,United States of America,Lake Ridge
+2773,United States of America,Lakewood
+2774,United States of America,Lemay
+2775,United States of America,Lexington
+2776,United States of America,Claremont
+2777,Mexico,Coatepec
+2778,United States of America,Crawfordsville
+2779,Mexico,Cuilapam
+2780,United States of America,Bardstown
+2781,United States of America,Cartersville
+2782,United States of America,Carthage
+2783,United States of America,Bakersfield
+2784,United States of America,Berkeley Heights
+2785,United States of America,Billerica
+2786,United States of America,Butte
+2787,United States of America,Claremore
+2788,United States of America,Allouez
+2789,United States of America,Nashua
+2790,United States of America,Newton
+2791,United States of America,Norman
+2792,United States of America,Manassas
+2793,United States of America,Medford
+2794,United States of America,Melrose Park
+2795,United States of America,Mililani Town
+2796,United States of America,Millville
+2797,United States of America,Morgan City
+2798,United States of America,Little Ferry
+2799,United States of America,Rosedale
+2800,United States of America,Rutherford
+2801,Mexico,Ramos Arizpe
+2802,United States of America,Rogers
+2803,United States of America,Lake Mary
+2804,United States of America,Lakeland
+2805,United States of America,Montclair
+2806,United States of America,Muskegon Heights
+2807,United States of America,New Bern
+2808,United States of America,La Puente
+2809,United States of America,North Branch
+2810,United States of America,North Creek
+2811,United States of America,North Las Vegas
+2812,United States of America,Odenton
+2813,United States of America,San Fernando
+2814,United States of America,Shively
+2815,United States of America,Sidney
+2816,United States of America,Skokie
+2817,Mexico,Tamuin
+2818,Mexico,Tecate
+2819,United States of America,Normal
+2820,United States of America,North Royalton
+2821,United States of America,Oak Ridge
+2822,United States of America,Farragut
+2823,United States of America,Foxborough
+2824,United States of America,Franklin Park
+2825,United States of America,Gary
+2826,United States of America,Starkville
+2827,United States of America,Steger
+2828,Mexico,Suchiapa
+2829,Mexico,Teziutlan
+2830,Mexico,Tezoyuca
+2831,Mexico,Tlaxiaco
+2832,United States of America,Ukiah
+2833,Mexico,Veracruz
+2834,United States of America,Kapaa
+2835,United States of America,Grand Prairie
+2836,United States of America,Groveton
+2837,Mexico,Guerrero Negro
+2838,Mexico,Huamantla
+2839,United States of America,Huntington Beach
+2840,United States of America,Huron
+2841,United States of America,Galena Park
+2842,United States of America,Lawrence
+2843,United States of America,Leeds
+2844,United States of America,Lexington Fayette
+2845,United States of America,Youngstown
+2846,United States of America,Hillside
+2847,Mexico,Huixtla
+2848,United States of America,Humacao
+2849,United States of America,Memphis
+2850,United States of America,La Grande
+2851,United States of America,Caledonia
+2852,United States of America,Chesapeake
+2853,United States of America,Chowchilla
+2854,United States of America,Colonial Park
+2855,United States of America,Yeehaw Junction
+2856,United States of America,Chattanooga
+2857,Mexico,Compostela
+2858,United States of America,Carol Stream
+2859,United States of America,Brownsburg
+2860,United States of America,Richmond Heights
+2861,United States of America,Rio Linda
+2862,United States of America,Poplar Bluff
+2863,United States of America,Pacifica
+2864,United States of America,Greensburg
+2865,United States of America,Iowa City
+2866,United States of America,Pampa
+2867,United States of America,Orland Park
+2868,United States of America,Park Ridge
+2869,United States of America,Schenectady
+2870,United States of America,North Andover
+2871,United States of America,Ocala
+2872,United States of America,Okmulgee
+2873,United States of America,White Plains
+2874,United States of America,Windham
+2875,United States of America,Villa Rica
+2876,United States of America,Shorewood
+2877,United States of America,Slidell
+2878,United States of America,Secaucus
+2879,United States of America,Olivehurst
+2880,United States of America,Pahrump
+2881,United States of America,North Olmsted
+2882,United States of America,Point Pleasant
+2883,Canada,Orillia
+2884,Mexico,Papantla
+2885,United States of America,River Grove
+2886,United States of America,New Berlin
+2887,United States of America,North Babylon
+2888,United States of America,North Branford
+2889,Mexico,Nuevo Mexico
+2890,United States of America,Sweetwater
+2891,United States of America,Mastic
+2892,United States of America,Miami Shores
+2893,United States of America,Lafayette
+2894,Canada,Simcoe
+2895,United States of America,Hastings
+2896,United States of America,Drexel Heights
+2897,Mexico,Escarcega
+2898,United States of America,Fernley
+2899,United States of America,Florida Ridge
+2900,United States of America,Pine Hills
+2901,United States of America,Gainesville
+2902,United States of America,Wellesley
+2903,United States of America,Winfield
+2904,United States of America,Woodburn
+2905,Mexico,Ahualulco
+2906,Mexico,Arcelia
+2907,United States of America,Idylwood
+2908,United States of America,Clayton
+2909,Mexico,Cuautla
+2910,United States of America,Vincennes
+2911,Canada,Williams Lake
+2912,United States of America,Wolcott
+2913,Canada,Truro
+2914,United States of America,Vancouver
+2915,United States of America,Somersworth
+2916,United States of America,Chanhassen
+2917,United States of America,Charleston
+2918,United States of America,Aliquippa
+2919,Mexico,Puente De Ixtla
+2920,United States of America,Saint Peters
+2921,United States of America,Ridgefield
+2922,United States of America,Paterson
+2923,United States of America,Pennsauken
+2924,United States of America,North Richland Hills
+2925,United States of America,Oakley
+2926,United States of America,Dunmore
+2927,United States of America,Elmhurst
+2928,United States of America,Emmaus
+2929,United States of America,Fort Stewart
+2930,United States of America,Gallatin
+2931,United States of America,Englewood
+2932,United States of America,Erie
+2933,United States of America,Dania Beach
+2934,United States of America,Drexel Hill
+2935,United States of America,East Millcreek
+2936,United States of America,East Norriton
+2937,United States of America,East Palo Alto
+2938,United States of America,East Wenatchee Bench
+2939,Mexico,Taxco
+2940,Mexico,Tepeji
+2941,Canada,Toronto
+2942,United States of America,Troutdale
+2943,United States of America,Tupelo
+2944,United States of America,South Hadley
+2945,United States of America,Streator
+2946,United States of America,University Park
+2947,Mexico,Valle Hermoso
+2948,Mexico,Mineral Del Monte
+2949,United States of America,Montgomery
+2950,United States of America,Hartselle
+2951,United States of America,Keene
+2952,United States of America,Lunenburg
+2953,United States of America,Melvindale
+2954,United States of America,Liberty
+2955,United States of America,North Platte
+2956,United States of America,Newburyport
+2957,United States of America,Niagara Falls
+2958,United States of America,Corona
+2959,United States of America,Prattville
+2960,United States of America,Christiansburg
+2961,Mexico,Cunduacan
+2962,United States of America,Algonquin
+2963,United States of America,Eunice
+2964,United States of America,Elfers
+2965,United States of America,Blue Island
+2966,United States of America,Bourne
+2967,United States of America,Ensley
+2968,United States of America,Mason
+2969,United States of America,Mesquite
+2970,United States of America,Moss Point
+2971,United States of America,West Chicago
+2972,United States of America,West Memphis
+2973,United States of America,Waco
+2974,Mexico,Huilango
+2975,United States of America,Huntersville
+2976,United States of America,Wildwood
+2977,United States of America,Willingboro
+2978,United States of America,Waynesboro
+2979,United States of America,Livermore
+2980,United States of America,Joplin
+2981,United States of America,Darien
+2982,United States of America,Dolton
+2983,Canada,Kanata
+2984,United States of America,Kennebunk
+2985,United States of America,Farmington Hills
+2986,United States of America,Markham
+2987,United States of America,Prospect Heights
+2988,United States of America,Southbridge
+2989,United States of America,Oakland
+2990,Mexico,Temixco
+2991,United States of America,Tullahoma
+2992,United States of America,Tustin Foothills
+2993,Mexico,Escuinapa
+2994,United States of America,Evanston
+2995,United States of America,Holiday
+2996,Mexico,Apatzingan
+2997,Mexico,Atlautla
+2998,United States of America,Boynton Beach
+2999,United States of America,Broomall
+3000,United States of America,Central Islip
+3001,United States of America,Welby
+3002,United States of America,West Chester
+3003,Mexico,Zimapan
+3004,United States of America,Twin Falls
+3005,United States of America,University City
+3006,United States of America,Vestavia Hills
+3007,Mexico,Vicente Guerrero
+3008,United States of America,Vidalia
+3009,United States of America,Alvin
+3010,Mexico,Anenecuilco
+3011,United States of America,Talladega
+3012,Mexico,Tangancicuaro
+3013,United States of America,Murrieta
+3014,United States of America,North Lauderdale
+3015,United States of America,North Little Rock
+3016,United States of America,Northborough
+3017,Mexico,Tequixquiac
+3018,United States of America,Mendota Heights
+3019,United States of America,Tuscaloosa
+3020,United States of America,Twentynine Palms
+3021,United States of America,Clearwater
+3022,Mexico,Puruandiro
+3023,United States of America,Rancho Cucamonga
+3024,United States of America,Asheboro
+3025,United States of America,Bellmore
+3026,United States of America,Brecksville
+3027,Mexico,Apan
+3028,Canada,Grande Prairie
+3029,United States of America,Great Bend
+3030,United States of America,Greenwood
+3031,Canada,Kitimat
+3032,United States of America,Indio
+3033,Mexico,Jiquilpan
+3034,United States of America,Vernon Hills
+3035,United States of America,Castle Rock
+3036,United States of America,Central Falls
+3037,United States of America,Gaffney
+3038,United States of America,Cornelius
+3039,United States of America,Cabot
+3040,United States of America,Calverton
+3041,United States of America,Beeville
+3042,Mexico,Degollado
+3043,United States of America,Pendleton
+3044,Mexico,Pinotepa Nacional
+3045,United States of America,Pompton Lakes
+3046,United States of America,Port Washington
+3047,United States of America,Yauco
+3048,United States of America,Wadsworth
+3049,United States of America,Wakefield
+3050,United States of America,Lake Station
+3051,United States of America,Levittown
+3052,United States of America,Graham
+3053,Mexico,Guamuchil
+3054,Canada,Hauterive
+3055,United States of America,Pearl River
+3056,United States of America,Oshkosh
+3057,United States of America,Palm Beach Gardens
+3058,United States of America,Cape Coral
+3059,Mexico,Chalco
+3060,United States of America,Avenel
+3061,Mexico,La Ceiba
+3062,United States of America,Schertz
+3063,United States of America,Eagle
+3064,United States of America,East Moline
+3065,United States of America,Effingham
+3066,United States of America,Nacogdoches
+3067,United States of America,Little Falls
+3068,United States of America,Irving
+3069,Mexico,Jalostotitlan
+3070,United States of America,Jefferson
+3071,United States of America,Wilbraham
+3072,United States of America,Wilsonville
+3073,Canada,Saint Jerome
+3074,United States of America,Selden
+3075,United States of America,Pascagoula
+3076,Canada,Penticton
+3077,United States of America,Tarrytown
+3078,United States of America,North Chicago
+3079,United States of America,Sugar Land
+3080,United States of America,Oneonta
+3081,United States of America,Paramus
+3082,Canada,Port Alberni
+3083,United States of America,Reisterstown
+3084,United States of America,Sammamish
+3085,United States of America,Seatac
+3086,United States of America,Lowell
+3087,United States of America,Stephenville
+3088,United States of America,Vermillion
+3089,United States of America,Sunrise Manor
+3090,United States of America,San Juan Capistrano
+3091,Mexico,San Antonio De La Cal
+3092,Canada,Trois Rivieres
+3093,United States of America,Westlake
+3094,Mexico,Xoxtla
+3095,United States of America,Waipahu
+3096,United States of America,Lindenhurst
+3097,United States of America,Lorain
+3098,United States of America,Lake Charles
+3099,United States of America,Leander
+3100,United States of America,Shawnee
+3101,United States of America,Portage
+3102,United States of America,Pueblo
+3103,United States of America,Solon
+3104,United States of America,South San Jose Hills
+3105,United States of America,Stillwater
+3106,Canada,Swift Current
+3107,United States of America,Temple City
+3108,Mexico,Tizayuca
+3109,United States of America,Uvalde
+3110,United States of America,Ventnor City
+3111,United States of America,Mount Kisco
+3112,United States of America,Muskegon
+3113,United States of America,Martinez
+3114,Mexico,Matehuala
+3115,United States of America,North Plainfield
+3116,United States of America,North Wantagh
+3117,United States of America,Mercer Island
+3118,United States of America,Holtsville
+3119,United States of America,Irmo
+3120,Mexico,Jaral Del Progreso
+3121,United States of America,Haverhill
+3122,United States of America,Herndon
+3123,United States of America,Hickory
+3124,Mexico,Paraiso
+3125,Mexico,Periban
+3126,Mexico,Culiacan
+3127,United States of America,Bedford Heights
+3128,United States of America,Bemidji
+3129,United States of America,Calexico
+3130,United States of America,Saint Peter
+3131,United States of America,Reedley
+3132,United States of America,Bethpage
+3133,United States of America,Bridgeport
+3134,United States of America,Campbellsville
+3135,Canada,Grand Centre
+3136,United States of America,Hybla Valley
+3137,United States of America,Keizer
+3138,United States of America,Stuart
+3139,United States of America,Washington
+3140,United States of America,Lemont
+3141,United States of America,Lynden
+3142,Canada,Magog
+3143,United States of America,Gloversville
+3144,United States of America,Goleta
+3145,United States of America,Fredericksburg
+3146,United States of America,Dover
+3147,United States of America,East Patchogue
+3148,United States of America,Eastpointe
+3149,Mexico,El Quince
+3150,Mexico,Coyotepec
+3151,United States of America,Dodge City
+3152,United States of America,Hillsboro
+3153,United States of America,Parma Heights
+3154,United States of America,Pierre
+3155,United States of America,Plano
+3156,United States of America,Soddy Daisy
+3157,United States of America,Coshocton
+3158,United States of America,Cranford
+3159,Canada,Port Huron
+3160,United States of America,Rochester
+3161,United States of America,Traverse City
+3162,United States of America,Vernon
+3163,United States of America,Waupun
+3164,United States of America,Knoxville
+3165,United States of America,Fishers
+3166,United States of America,Fort Pierce
+3167,United States of America,New Hope
+3168,United States of America,Middle River
+3169,United States of America,Fenton
+3170,United States of America,Ferguson
+3171,Mexico,Puebla
+3172,United States of America,Maple Heights
+3173,United States of America,Southlake
+3174,Mexico,Nextlalpan
+3175,United States of America,Mill Valley
+3176,United States of America,Logansport
+3177,Mexico,Cuitlahuac
+3178,Mexico,Garcia
+3179,United States of America,East Grand Rapids
+3180,United States of America,Wilmington
+3181,United States of America,Wilton Manors
+3182,Mexico,La Poza
+3183,United States of America,Lynnwood
+3184,Mexico,Matamoros
+3185,United States of America,Mayaguez
+3186,United States of America,Menomonie
+3187,Canada,Baie Comeau
+3188,United States of America,Midlothian
+3189,United States of America,Ridge
+3190,United States of America,Yukon
+3191,United States of America,Depew
+3192,United States of America,Florence
+3193,United States of America,Benton
+3194,United States of America,Bethany
+3195,United States of America,Akron
+3196,Canada,Alliston
+3197,United States of America,Callaway
+3198,United States of America,West Lake Stevens
+3199,United States of America,Woodbridge
+3200,Mexico,Zinapecuaro
+3201,United States of America,Carol City
+3202,United States of America,Garfield Heights
+3203,United States of America,Essex
+3204,Mexico,Lazaro Cardenas
+3205,United States of America,Morton
+3206,Mexico,Motozintla
+3207,United States of America,Matthews
+3208,United States of America,Kingsland
+3209,Mexico,La Orilla
+3210,United States of America,Suffern
+3211,United States of America,Sunbury
+3212,United States of America,Rolling Meadows
+3213,United States of America,Jennings
+3214,United States of America,Wentzville
+3215,United States of America,Vallejo
+3216,United States of America,Valley Falls
+3217,Mexico,Tehuacan
+3218,United States of America,Newberg
+3219,United States of America,Andover
+3220,United States of America,Cloquet
+3221,United States of America,College
+3222,United States of America,Blytheville
+3223,United States of America,Brockville
+3224,United States of America,Carlsbad
+3225,United States of America,Yazoo City
+3226,United States of America,Westborough
+3227,Mexico,Xico
+3228,United States of America,Lewiston
+3229,United States of America,Flower Mound
+3230,United States of America,Fort Madison
+3231,United States of America,Collierville
+3232,United States of America,Culpeper
+3233,United States of America,Hagerstown
+3234,United States of America,Hillcrest Heights
+3235,United States of America,Sturgis
+3236,United States of America,Lathrop
+3237,United States of America,Amherst
+3238,United States of America,Dearborn
+3239,United States of America,Federal Way
+3240,United States of America,New Bedford
+3241,United States of America,New Britain
+3242,United States of America,New Castle
+3243,United States of America,North Merrick
+3244,Mexico,Ocotlan
+3245,United States of America,Morgantown
+3246,United States of America,North Miami
+3247,United States of America,North New Hyde Park
+3248,United States of America,Northview
+3249,United States of America,Prior Lake
+3250,Mexico,Zacualtipan
+3251,United States of America,Fayetteville
+3252,United States of America,Marinette
+3253,United States of America,Metuchen
+3254,United States of America,Mountain Home
+3255,Mexico,Atlixco
+3256,United States of America,Camden
+3257,United States of America,Castro Valley
+3258,United States of America,Cayey
+3259,United States of America,Overland Park
+3260,United States of America,Roanoke
+3261,United States of America,Rosemount
+3262,United States of America,Bessemer
+3263,United States of America,Phillipsburg
+3264,United States of America,Pomona
+3265,United States of America,Sulphur Springs
+3266,United States of America,Red Bluff
+3267,United States of America,Rockwall
+3268,United States of America,Kannapolis
+3269,United States of America,Chambersburg
+3270,Mexico,Chilac
+3271,United States of America,Cortland
+3272,Canada,Cranbrook
+3273,United States of America,East Greenwich
+3274,Mexico,El Arenal
+3275,United States of America,West Plains
+3276,United States of America,Vandalia
+3277,United States of America,Warrenville
+3278,United States of America,Goose Creek
+3279,United States of America,Gorham
+3280,United States of America,Hopkinton
+3281,United States of America,Idaho Falls
+3282,United States of America,Taylorsville
+3283,United States of America,Westbury
+3284,United States of America,Whittier
+3285,Mexico,Xoxocotlan
+3286,United States of America,Sauk Rapids
+3287,United States of America,Seagoville
+3288,United States of America,Brownsville
+3289,Mexico,Coyuca
+3290,United States of America,Romulus
+3291,United States of America,Elk Plain
+3292,Mexico,Berriozabal
+3293,Mexico,Acaponeta
+3294,Mexico,Atenco
+3295,United States of America,Auburndale
+3296,United States of America,The Crossings
+3297,United States of America,Lackawanna
+3298,Mexico,Motul
+3299,United States of America,Mustang
+3300,United States of America,Elmont
+3301,United States of America,Hinesville
+3302,United States of America,Inkster
+3303,Mexico,Eldorado
+3304,United States of America,Kernersville
+3305,United States of America,Kennesaw
+3306,Mexico,Valladolid
+3307,United States of America,Vero Beach
+3308,United States of America,Thomasville
+3309,United States of America,Laguna Woods
+3310,United States of America,Las Cruces
+3311,United States of America,Levelland
+3312,United States of America,Branford
+3313,United States of America,Centereach
+3314,United States of America,Fond Du Lac
+3315,United States of America,Encinitas
+3316,United States of America,Euclid
+3317,United States of America,Eloy
+3318,United States of America,Gahanna
+3319,United States of America,Haines City
+3320,United States of America,Hillsdale
+3321,United States of America,Lawrenceburg
+3322,United States of America,Mauldin
+3323,United States of America,Morro Bay
+3324,United States of America,Lansdowne
+3325,United States of America,Palmetto Estates
+3326,United States of America,West Fargo
+3327,United States of America,North Auburn
+3328,United States of America,Saint George
+3329,United States of America,Yuba City
+3330,United States of America,Zanesville
+3331,United States of America,Glenn Dale
+3332,United States of America,Guilford
+3333,United States of America,Haverstraw
+3334,Mexico,Hecelchakan
+3335,United States of America,Jasper
+3336,Canada,Victoriaville
+3337,United States of America,Waterbury
+3338,United States of America,Webb City
+3339,United States of America,Summerville
+3340,Mexico,Ticul
+3341,United States of America,Spring
+3342,United States of America,Strongsville
+3343,United States of America,Paragould
+3344,United States of America,Fairbanks
+3345,United States of America,Covington
+3346,United States of America,Cromwell
+3347,Mexico,Cuautitlan Izcalli
+3348,United States of America,Desert Hot Springs
+3349,United States of America,Gretna
+3350,United States of America,Huber Heights
+3351,United States of America,Hurricane
+3352,Mexico,Jiutepec
+3353,Mexico,Nava
+3354,United States of America,North Smithfield
+3355,United States of America,Rantoul
+3356,Mexico,Puerto Penasco
+3357,United States of America,Radcliff
+3358,United States of America,Augusta
+3359,United States of America,Avon Lake
+3360,United States of America,Norwalk
+3361,United States of America,Oldsmar
+3362,United States of America,West Islip
+3363,United States of America,White Settlement
+3364,United States of America,Wickliffe
+3365,United States of America,Shreveport
+3366,Mexico,Tlaxcala
+3367,United States of America,Waterford
+3368,United States of America,Waycross
+3369,United States of America,Bellevue
+3370,United States of America,Conway
+3371,United States of America,Cutler Ridge
+3372,Mexico,Tlacolula
+3373,United States of America,Sunnyside
+3374,United States of America,Suwanee
+3375,Mexico,Tampico
+3376,United States of America,Terrytown
+3377,United States of America,Tracy
+3378,United States of America,Mattoon
+3379,United States of America,Menasha
+3380,Mexico,Tecamac
+3381,Mexico,Teloloapan
+3382,United States of America,Walnut Park
+3383,United States of America,Watsonville
+3384,United States of America,Brownwood
+3385,Mexico,Pueblo Nuevo
+3386,United States of America,Milford
+3387,United States of America,Mineola
+3388,United States of America,East Stroudsburg
+3389,Mexico,Pochutla
+3390,United States of America,Elkton
+3391,United States of America,Merrimack
+3392,United States of America,Newburgh
+3393,United States of America,Paris
+3394,United States of America,Brandon
+3395,United States of America,Abbeville
+3396,United States of America,La Grange Park
+3397,United States of America,Allen Park
+3398,United States of America,Spanaway
+3399,United States of America,El Cajon
+3400,United States of America,Alderwood Manor
+3401,United States of America,Appleton
+3402,United States of America,Cottage Grove
+3403,United States of America,College Station
+3404,United States of America,Hibbing
+3405,Mexico,Delicias
+3406,Mexico,Ruiz
+3407,United States of America,Canandaigua
+3408,United States of America,Mandan
+3409,United States of America,Hempstead
+3410,United States of America,Turlock
+3411,Mexico,Tuxtla Gutierrez
+3412,Mexico,Tuxtla
+3413,United States of America,Kankakee
+3414,United States of America,Kokomo
+3415,United States of America,Highview
+3416,United States of America,Westland
+3417,United States of America,Buford
+3418,United States of America,Nampa
+3419,United States of America,Massapequa Park
+3420,United States of America,Lakeville
+3421,United States of America,Lombard
+3422,United States of America,Moline
+3423,United States of America,Cottonwood Heights
+3424,Mexico,Cuernavaca
+3425,Mexico,Cihuatlan
+3426,United States of America,Woodinville
+3427,United States of America,Highland Village
+3428,United States of America,Kendale Lakes
+3429,Mexico,Poncitlan
+3430,United States of America,Puyallup
+3431,United States of America,Parker
+3432,Mexico,Tlalmanalco
+3433,United States of America,Bend
+3434,United States of America,Cincinnati
+3435,United States of America,Clermont
+3436,United States of America,Kyle
+3437,United States of America,Lauderhill
+3438,United States of America,Miami Springs
+3439,Canada,Nanaimo
+3440,United States of America,Desoto
+3441,United States of America,El Cerrito
+3442,Mexico,Fortin
+3443,United States of America,Coalinga
+3444,United States of America,Sevierville
+3445,United States of America,South Jordan
+3446,United States of America,Austintown
+3447,Mexico,Autlan
+3448,United States of America,Charlton
+3449,United States of America,Brenham
+3450,Mexico,Lerma
+3451,United States of America,Northlake
+3452,Mexico,Nueva Italia De Ruiz
+3453,United States of America,Groton
+3454,United States of America,Hugo
+3455,United States of America,Cheshire
+3456,United States of America,Draper
+3457,United States of America,Fort Washington
+3458,United States of America,East Hanover
+3459,United States of America,East Meadow
+3460,United States of America,Savannah
+3461,United States of America,Adelanto
+3462,United States of America,West Odessa
+3463,United States of America,Wyoming
+3464,Mexico,Yurecuaro
+3465,United States of America,Centerville
+3466,United States of America,Webster
+3467,Mexico,Xalapa
+3468,United States of America,Cutler
+3469,Mexico,Tuxtepec
+3470,United States of America,Villas
+3471,United States of America,Wekiva Springs
+3472,United States of America,Bluefield
+3473,United States of America,Holly Hill
+3474,United States of America,Enterprise
+3475,United States of America,Greenwich
+3476,Mexico,Zacoalco
+3477,United States of America,Victorville
+3478,United States of America,Urbana
+3479,Mexico,Zaragoza
+3480,United States of America,Waldorf
+3481,United States of America,Snellville
+3482,United States of America,Saint Petersburg
+3483,United States of America,Tampa
+3484,United States of America,Somers Point
+3485,United States of America,Oklahoma City
+3486,United States of America,Schererville
+3487,Canada,Thetford Mines
+3488,United States of America,Smithtown
+3489,United States of America,Caldwell
+3490,United States of America,Texarkana
+3491,United States of America,Torrance
+3492,United States of America,Newark
+3493,United States of America,Fremont
+3494,United States of America,River Edge
+3495,United States of America,Roanoke Rapids
+3496,United States of America,Colorado Springs
+3497,United States of America,Copiague
+3498,United States of America,Hewitt
+3499,United States of America,Ithaca
+3500,Canada,Joliette
+3501,Canada,Calgary
+3502,United States of America,Springboro
+3503,United States of America,Suamico
+3504,United States of America,Colonial Heights
+3505,United States of America,Pittsburgh
+3506,Mexico,Boca Del Rio
+3507,United States of America,Mason City
+3508,United States of America,Medway
+3509,United States of America,Lynbrook
+3510,Mexico,Tlaquepaque
+3511,United States of America,West Mifflin
+3512,United States of America,Hutchinson
+3513,United States of America,Kalamazoo
+3514,United States of America,Citrus Heights
+3515,Mexico,Tala
+3516,United States of America,Mechanicsville
+3517,Mexico,Xochitepec
+3518,United States of America,Myrtle Beach
+3519,Mexico,Tecalitlan
+3520,United States of America,Jackson
+3521,United States of America,Cottonwood
+3522,United States of America,Beaverton
+3523,United States of America,Boston
+3524,United States of America,Urbandale
+3525,United States of America,Chicago Heights
+3526,United States of America,Lakeland Highlands
+3527,United States of America,American Fork
+3528,United States of America,Macomb
+3529,United States of America,Maplewood
+3530,United States of America,Lutz
+3531,United States of America,Uniondale
+3532,United States of America,Berea
+3533,United States of America,Abilene
+3534,United States of America,Neosho
+3535,United States of America,Cuyahoga Falls
+3536,Mexico,Zitacuaro
+3537,United States of America,Vienna
+3538,United States of America,Worthington
+3539,United States of America,Wauconda
+3540,United States of America,Vega Baja
+3541,United States of America,Tahlequah
+3542,United States of America,Aguadilla
+3543,United States of America,Meridian
+3544,United States of America,Saint Marys
+3545,United States of America,West Monroe
+3546,United States of America,Weatherford
+3547,United States of America,Dudley
+3548,United States of America,Lake Magdalene
+3549,United States of America,Brigham City
+3550,United States of America,Elkhart
+3551,Mexico,San Bartolo Del Llano
+3552,Mexico,Tlalancaleca
+3553,United States of America,South Houston
+3554,United States of America,Kaneohe
+3555,United States of America,Westwood
+3556,United States of America,Woodland
+3557,Canada,Lacombe
+3558,United States of America,Woonsocket
+3559,United States of America,Dalton
+3560,United States of America,Truckee
+3561,United States of America,Weehawken
+3562,United States of America,Garden Grove
+3563,Mexico,San Jose Iturbide
+3564,United States of America,Vermilion
+3565,United States of America,Superior
+3566,United States of America,Sparks
+3567,United States of America,Bay Shore
+3568,United States of America,Wallington
+3569,Mexico,Tierra Colorada
+3570,United States of America,Venice
+3571,United States of America,San Bernardino
+3572,Mexico,Tepoztlan
+3573,United States of America,Sault Sainte Marie
+3574,United States of America,Farmingville
+3575,United States of America,Fords
+3576,Canada,Thompson
+3577,United States of America,Rapid City
+3578,United States of America,Girard
+3579,United States of America,Willow Grove
+3580,United States of America,Wrentham
+3581,Mexico,Cocula
+3582,Mexico,Santa Catarina
+3583,United States of America,Salina
+3584,United States of America,West Palm Beach
+3585,Mexico,Huetamo
+3586,United States of America,Brawley
+3587,United States of America,Upland
+3588,United States of America,Converse
+3589,United States of America,Benton Harbor
+3590,United States of America,Coldwater
+3591,United States of America,Union
+3592,Mexico,Tlaltelulco
+3593,United States of America,Guaynabo
+3594,United States of America,Reston
+3595,Mexico,Tonala
+3596,United States of America,Sand Springs
+3597,Canada,Haileybury
+3598,United States of America,El Reno
+3599,United States of America,Highland Springs
+3600,United States of America,Westerville
