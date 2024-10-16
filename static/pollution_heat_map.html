@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_423e35cea70798aa27fb8b2d9b75ddba {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_423e35cea70798aa27fb8b2d9b75ddba" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_423e35cea70798aa27fb8b2d9b75ddba = L.map(
+                "map_423e35cea70798aa27fb8b2d9b75ddba",
+                {
+                    center: [37.0902, -95.7129],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 4,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_58f169f994cb65ad66a31f3adfb960de = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors", "detectRetina": false, "maxNativeZoom": 19, "maxZoom": 19, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            tile_layer_58f169f994cb65ad66a31f3adfb960de.addTo(map_423e35cea70798aa27fb8b2d9b75ddba);
+        
+    
+            var circle_marker_c6be482bb6d10b7be586f509f32a44be = L.circleMarker(
+                [32.9126, -96.6389],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_423e35cea70798aa27fb8b2d9b75ddba);
+        
+    
+            circle_marker_c6be482bb6d10b7be586f509f32a44be.bindTooltip(
+                `<div>
+                     Garland: PM2.5 = 2.2 µg/m³
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_f3fafe56035fa0405e485e441fc7ed3c = L.circleMarker(
+                [33.8304, -96.8208],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_423e35cea70798aa27fb8b2d9b75ddba);
+        
+    
+            circle_marker_f3fafe56035fa0405e485e441fc7ed3c.bindTooltip(
+                `<div>
+                     Gordonville: PM2.5 = 0.55 µg/m³
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_d4cb59fe328f259318bd30cd997099b6 = L.circleMarker(
+                [34.0553, -117.7523],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 30, "stroke": true, "weight": 3}
+            ).addTo(map_423e35cea70798aa27fb8b2d9b75ddba);
+        
+    
+            circle_marker_d4cb59fe328f259318bd30cd997099b6.bindTooltip(
+                `<div>
+                     Pomona: PM2.5 = 37.55 µg/m³
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_ea554b31202679043ddceb2faddc4580 = L.circleMarker(
+                [33.7701, -118.1937],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 11.68, "stroke": true, "weight": 3}
+            ).addTo(map_423e35cea70798aa27fb8b2d9b75ddba);
+        
+    
+            circle_marker_ea554b31202679043ddceb2faddc4580.bindTooltip(
+                `<div>
+                     Long Beach: PM2.5 = 5.84 µg/m³
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_1b18f63c56e8be0a42808aa3d825c928 = L.circleMarker(
+                [33.8045, -118.1678],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 30, "stroke": true, "weight": 3}
+            ).addTo(map_423e35cea70798aa27fb8b2d9b75ddba);
+        
+    
+            circle_marker_1b18f63c56e8be0a42808aa3d825c928.bindTooltip(
+                `<div>
+                     Signal Hill: PM2.5 = 18.36 µg/m³
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_521b6cf491e2d5a712c4723da6d76a34 = L.circleMarker(
+                [33.1192, -117.0864],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 14.52, "stroke": true, "weight": 3}
+            ).addTo(map_423e35cea70798aa27fb8b2d9b75ddba);
+        
+    
+            circle_marker_521b6cf491e2d5a712c4723da6d76a34.bindTooltip(
+                `<div>
+                     Escondido: PM2.5 = 7.26 µg/m³
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_b014e1c246f6c0e2cbb1d839cb92ed50 = L.circleMarker(
+                [34.5794, -118.1165],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 30, "stroke": true, "weight": 3}
+            ).addTo(map_423e35cea70798aa27fb8b2d9b75ddba);
+        
+    
+            circle_marker_b014e1c246f6c0e2cbb1d839cb92ed50.bindTooltip(
+                `<div>
+                     Palmdale: PM2.5 = 66.87 µg/m³
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_0821c78ea77c4c16e6c651e732584008 = L.circleMarker(
+                [39.7047, -105.0814],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 12.14, "stroke": true, "weight": 3}
+            ).addTo(map_423e35cea70798aa27fb8b2d9b75ddba);
+        
+    
+            circle_marker_0821c78ea77c4c16e6c651e732584008.bindTooltip(
+                `<div>
+                     Lakewood: PM2.5 = 6.07 µg/m³
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_2334c809da898f93f2c2b88cb9994d19 = L.circleMarker(
+                [33.1959, -117.3795],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_423e35cea70798aa27fb8b2d9b75ddba);
+        
+    
+            circle_marker_2334c809da898f93f2c2b88cb9994d19.bindTooltip(
+                `<div>
+                     Oceanside: PM2.5 = 3 µg/m³
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_28d6e8f94651e1304c06344843b67ab4 = L.circleMarker(
+                [36.0972, -115.1467],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 12.68, "stroke": true, "weight": 3}
+            ).addTo(map_423e35cea70798aa27fb8b2d9b75ddba);
+        
+    
+            circle_marker_28d6e8f94651e1304c06344843b67ab4.bindTooltip(
+                `<div>
+                     Paradise: PM2.5 = 6.34 µg/m³
+                 </div>`,
+                {"sticky": true}
+            );
+        
+</script>
+</html>
