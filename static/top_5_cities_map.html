@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_0db1fbe3fd7009fef0fda44f7310acbc {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_0db1fbe3fd7009fef0fda44f7310acbc" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_0db1fbe3fd7009fef0fda44f7310acbc = L.map(
+                "map_0db1fbe3fd7009fef0fda44f7310acbc",
+                {
+                    center: [24.14780478, -79.29387346],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 5,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_cdab26072754943d16e8b8553b916c00 = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors", "detectRetina": false, "maxNativeZoom": 19, "maxZoom": 19, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            tile_layer_cdab26072754943d16e8b8553b916c00.addTo(map_0db1fbe3fd7009fef0fda44f7310acbc);
+        
+    
+            var marker_3b1d6bbe50ac89b29b63eea770328b2e = L.marker(
+                [43.1707065, -2.6334897],
+                {}
+            ).addTo(map_0db1fbe3fd7009fef0fda44f7310acbc);
+        
+    
+            var icon_23b80b35a52ebb79c09cba0b7296d7fa = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_3b1d6bbe50ac89b29b63eea770328b2e.setIcon(icon_23b80b35a52ebb79c09cba0b7296d7fa);
+        
+    
+        var popup_2ee5c4087599f5f7903e42805d3ed97c = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_5595d9ad7d4522dcb908636e9adf41a1 = $(`<div id="html_5595d9ad7d4522dcb908636e9adf41a1" style="width: 100.0%; height: 100.0%;">Durango: PM2.5 AQI Value = 500</div>`)[0];
+                popup_2ee5c4087599f5f7903e42805d3ed97c.setContent(html_5595d9ad7d4522dcb908636e9adf41a1);
+            
+        
+
+        marker_3b1d6bbe50ac89b29b63eea770328b2e.bindPopup(popup_2ee5c4087599f5f7903e42805d3ed97c)
+        ;
+
+        
+    
+    
+            var marker_6c9f03f1cb5afe2cb7091c9ebc8b20bd = L.marker(
+                [19.7875962, -98.5522855],
+                {}
+            ).addTo(map_0db1fbe3fd7009fef0fda44f7310acbc);
+        
+    
+            var icon_080453990f8d38444f299066f840322f = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_6c9f03f1cb5afe2cb7091c9ebc8b20bd.setIcon(icon_080453990f8d38444f299066f840322f);
+        
+    
+        var popup_7323f37afe2b62abaf46d9a5872fd545 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_d42664bd72ead5f9fc0ec23a5e81b9cb = $(`<div id="html_d42664bd72ead5f9fc0ec23a5e81b9cb" style="width: 100.0%; height: 100.0%;">Tepeapulco: PM2.5 AQI Value = 384</div>`)[0];
+                popup_7323f37afe2b62abaf46d9a5872fd545.setContent(html_d42664bd72ead5f9fc0ec23a5e81b9cb);
+            
+        
+
+        marker_6c9f03f1cb5afe2cb7091c9ebc8b20bd.bindPopup(popup_7323f37afe2b62abaf46d9a5872fd545)
+        ;
+
+        
+    
+    
+            var marker_423004e60b2a095b577886f244c49472 = L.marker(
+                [19.3243081, -98.4981701],
+                {}
+            ).addTo(map_0db1fbe3fd7009fef0fda44f7310acbc);
+        
+    
+            var icon_19c090260b6ce0d725965709790756ab = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_423004e60b2a095b577886f244c49472.setIcon(icon_19c090260b6ce0d725965709790756ab);
+        
+    
+        var popup_52fe9d3dd7c49d2fe40f2399570c2fec = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_6e32bd52f6e8edc3e7698e0d8bcfeb54 = $(`<div id="html_6e32bd52f6e8edc3e7698e0d8bcfeb54" style="width: 100.0%; height: 100.0%;">Tlalancaleca: PM2.5 AQI Value = 355</div>`)[0];
+                popup_52fe9d3dd7c49d2fe40f2399570c2fec.setContent(html_6e32bd52f6e8edc3e7698e0d8bcfeb54);
+            
+        
+
+        marker_423004e60b2a095b577886f244c49472.bindPopup(popup_52fe9d3dd7c49d2fe40f2399570c2fec)
+        ;
+
+        
+    
+    
+            var marker_c1905b9becb87184f03ef004e19fe999 = L.marker(
+                [19.245278, -98.404722],
+                {}
+            ).addTo(map_0db1fbe3fd7009fef0fda44f7310acbc);
+        
+    
+            var icon_05d88d24c5a1cd11ddae8bc431a09e49 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_c1905b9becb87184f03ef004e19fe999.setIcon(icon_05d88d24c5a1cd11ddae8bc431a09e49);
+        
+    
+        var popup_9e29dde236bc73550d4dae0a085cc063 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_3ee076a127cc27b8767f800ae60f6fc5 = $(`<div id="html_3ee076a127cc27b8767f800ae60f6fc5" style="width: 100.0%; height: 100.0%;">Moyotzingo: PM2.5 AQI Value = 332</div>`)[0];
+                popup_9e29dde236bc73550d4dae0a085cc063.setContent(html_3ee076a127cc27b8767f800ae60f6fc5);
+            
+        
+
+        marker_c1905b9becb87184f03ef004e19fe999.bindPopup(popup_9e29dde236bc73550d4dae0a085cc063)
+        ;
+
+        
+    
+    
+            var marker_3ad792a981fb8dbbc6bc98ac313bc0b4 = L.marker(
+                [19.2111351, -98.3807],
+                {}
+            ).addTo(map_0db1fbe3fd7009fef0fda44f7310acbc);
+        
+    
+            var icon_e9262614a795857a47bb748151080412 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_3ad792a981fb8dbbc6bc98ac313bc0b4.setIcon(icon_e9262614a795857a47bb748151080412);
+        
+    
+        var popup_f1d9bf45c5909332c1de09e6f1b030d9 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_c020803b91906bdd37b2f1c5f831ccdb = $(`<div id="html_c020803b91906bdd37b2f1c5f831ccdb" style="width: 100.0%; height: 100.0%;">Xalmimilulco: PM2.5 AQI Value = 326</div>`)[0];
+                popup_f1d9bf45c5909332c1de09e6f1b030d9.setContent(html_c020803b91906bdd37b2f1c5f831ccdb);
+            
+        
+
+        marker_3ad792a981fb8dbbc6bc98ac313bc0b4.bindPopup(popup_f1d9bf45c5909332c1de09e6f1b030d9)
+        ;
+
+        
+    
+</script>
+</html>
