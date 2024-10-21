@@ -1,5 +1,7 @@
 # Project_3
 Air Quality Data Analysis and Visualization
+# Project_3
+
 Air Quality Data Analysis and Visualization
 
 # Code to find the Cordinates for City:
@@ -82,58 +84,66 @@ in this dataset.
 
 The dataset contains columns such as City, Latitude and Longitude, AQI.
 
-Cities with the Worst AQI (5):
+Cities with the Worst AQI (4):
 
-1. Crestline
-2. Ajijic
-3. Palmdale
-4. Adelanto
-5. Hesperia
-6. Pekin
+1. Chicago
+2. New York City
+3. Saint Paul
 
 These cities have the highest AQI values, indicating the worst air quality, which could have a significant impact on the health of their populations.
 
 Cities with the Best AQI (1):
 
-There are 130 cities with an AQI of 1, indicating excellent air quality. Here are a few examples:
+Few examples of cities with Best AQI(1):
 
-1. Rahway
-2. New Milford
-3. Muna
-4. Murray
-5. Siloam Springs
+1. Pittsburg
+2. Buffalo
+3. Ohio
 
 These cities enjoy clean air and minimal pollution risks.
 
 ![1729188198538](image/README/1729188198538.png)
 
-# Bar chart displaying the top 5 cities in North America with the highest PM2.5 levels, based on randomly generated data, ranked from highest to lowest
+**Top 5 Cities with the **highest PM2.5 Levels****
 
 Key Findings:
 
-* Durango has the highest PM2.5 **levels, with a value close to 500, **significantly higher than the other **cities.
-* Tepeapulco and Tlalancaleca also **show relatively high PM2.5 levels, **though they are notably lower than Durango.
-* Moyotzingo and Xalmimilulcocomplete the top 5, with PM2.5 levels ranging between 200 and 300.
+* ** PM2.5 refers to fine particles 2.5 micrometers or **smaller that can penetrate the lungs and cause **health risks.**
+* ** The bar chart shows the top 5 cities with the **highest PM2.5 levels, indicating severe air **pollution.**
+* **Most of these cities are in Mexico, highlighting **significant pollution issues in the region.
 
-Bar chart displaying the top 5 cities in North America with the lowest PM2.5 levels, based on randomly generated data, ranked from lowest to highest: Sunnyside, Waterloo, Altamont, Hermitage, and Oak Harbor.
+![1729547390709](image/README/1729547390709.png)![img]()
 
-![]()![1729210410625](image/README/1729210410625.png)![]()
-
-# Bar chart displaying the top 5 cities in North America with the highest PM2.5 levels, based on randomly generated data, ranked from lowest to highest
-
-
+**Top 5 Cities with the lowest PM2.5 Levels**
 
 Key Findings:
 
-* Ensenada and Constitucion, both in **Mexico, show the lowest PM2.5 levels, **with Ensenada ranking first for the **cleanest air quality.
-* In Canada, Yellowknife, Williams **Lake, and North Battleford also enjoy **excellent air quality, with all three **cities having low PM2.5 AQI values. **North Battleford has the highest value **among the top 5, but it still reflects very good air quality.
+* **The cities shown in this visualization are **located in The United States and Canada, **with all of them exhibiting low PM2.5 **levels, indicating excellent air quality.
+* ** Canada, in particular, has several cities **with very clean air, likely due to lower **levels of industrial pollution and a focus on **environmental sustainability.
 
-![1729210385071](image/README/1729210385071.png)
+![1729547442062](image/README/1729547442062.png)
 
-# The chart displays the countries with the highest average PM2.5 AQI levels, featuring 10 nations: Republic of Korea, Bahrain, Mauritania, Pakistan, Aruba, Kuwait, UAE, Senegal, India, and Saudi Arabia.
+**Top 5 Cities with **the highest/lowest AQI Levels**
 
-![1729208096684](image/README/1729208096684.png)
+**The Air Quality Index (AQI) reflects **the combined impact of multiple **pollutants, and cities with higher levels **of pollutants like PM2.5, PM10, NO2, **and CO typically have higher AQI **values.
 
-# Air Quality Distribution across North America
+![1729547463030](image/README/1729547463030.png)
+
+![1729547476232](image/README/1729547476232.png)
+
+**Real-Time Air Quality Map for AQI **as of Oct 20, 2024**
+
+
+* AQI was primarily bad across the USA with a Value higher than 3-5
+* **Mexico and Canada showed to **have good Air Quality ranging from 1-2
+
+
+Ozone is formed in the atmosphere through chemical reactions between
+
+Pollutants emitted into the air
+
+
+* **Oct 20, showed a high **concentration of O3 across most **of USA**
+* **Mexico showed a lower **concentration
 
 ![1729211383427](image/README/1729211383427.png)
