@@ -104,51 +104,49 @@ These cities enjoy clean air and minimal pollution risks.
 
 ![1729188198538](image/README/1729188198538.png)
 
-**Top 5 Cities with the **highest PM2.5 Levels****
+# **Top 5 Cities with the **highest PM2.5 Levels****
 
 Key Findings:
 
-* ** PM2.5 refers to fine particles 2.5 micrometers or **smaller that can penetrate the lungs and cause **health risks.**
-* ** The bar chart shows the top 5 cities with the **highest PM2.5 levels, indicating severe air **pollution.**
-* **Most of these cities are in Mexico, highlighting **significant pollution issues in the region.
+* PM2.5 refers to fine particles 2.5 micrometers or **smaller that can penetrate the lungs and cause **health risks.**
+* The bar chart shows the top 5 cities with the **highest PM2.5 levels, indicating severe air **pollution.**
+* Most of these cities are in Mexico, highlighting **significant pollution issues in the region.
 
 ![1729547390709](image/README/1729547390709.png)![img]()
 
-**Top 5 Cities with the lowest PM2.5 Levels**
+# **Top 5 Cities with the lowest PM2.5 Levels**
 
-Key Findings:
+**Key Findings:**
 
-* **The cities shown in this visualization are **located in The United States and Canada, **with all of them exhibiting low PM2.5 **levels, indicating excellent air quality.
-* ** Canada, in particular, has several cities **with very clean air, likely due to lower **levels of industrial pollution and a focus on **environmental sustainability.
+* The cities shown in this visualization are **located in The United States and Canada, **with all of them exhibiting low PM2.5 **levels, indicating excellent air quality.
+* Canada, in particular, has several cities **with very clean air, likely due to lower **levels of industrial pollution and a focus on **environmental sustainability.
 
 ![1729547442062](image/README/1729547442062.png)
 
-**Top 5 Cities with **the highest/lowest AQI Levels**
+ # Top 5 Cities with **the highest/lowest AQI Levels**
 
-**The Air Quality Index (AQI) reflects **the combined impact of multiple **pollutants, and cities with higher levels **of pollutants like PM2.5, PM10, NO2, **and CO typically have higher AQI **values.
+The Air Quality Index (AQI) reflects the combined impact of multiple pollutants, and cities with higher levels of pollutants like PM2.5, PM10, NO2, and CO typically have higher AQI values.
 
 ![1729547463030](image/README/1729547463030.png)
 
 ![1729547476232](image/README/1729547476232.png)
 
-**Real-Time Air Quality Map for AQI **as of Oct 20, 2024**
+# Real-Time Air Quality Map for AQI **as of Oct 20, 2024**
 
 
 * AQI was primarily bad across the USA with a Value higher than 3-5
-* **Mexico and Canada showed to **have good Air Quality ranging from 1-2
-
+* Mexico and Canada showed to **have good Air Quality ranging from 1-2
 
 Ozone is formed in the atmosphere through chemical reactions between
 
 Pollutants emitted into the air
 
-
-* **Oct 20, showed a high **concentration of O3 across most **of USA**
-* **Mexico showed a lower **concentration
+* Oct 20, showed a high **concentration of O3 across most **of USA**
+* Mexico showed a lower **concentration
 
 ![1729211383427](image/README/1729211383427.png)
 
-** Ethical considerations **
+# Ethical considerations
 We used the OpenWeather map's air quality API for analysis. ​
 
 Based on existing policies, our assumption is that in sourcing the data for the air quality dataset, the following principles were adhered to:​
