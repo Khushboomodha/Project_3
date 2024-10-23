@@ -145,3 +145,30 @@ Pollutants emitted into the air
 * **Mexico showed a lower **concentration
 
 ![1729211383427](image/README/1729211383427.png)
+
+Ethical considerations
+
+We used the OpenWeather map's air quality API for analysis. ​
+
+​Based on existing policies, our assumption is that in sourcing the data for the air quality dataset, the following principles were adhered to:​
+respect for individual privacy​
+accuracy in data collection​
+transparency in processes​
+adherence to lawful practices
+
+References:
+Plotly map code:
+https://github.com/Coding-with-Adam/Dash-by-Plotly/blob/master/Other/Dash_Introduction/intro.py
+Dataset used
+Current and Historical Air Quality data
+https://openweathermap.org/api/air-pollution
+GitHubGitHub
+Dash-by-Plotly/Other/Dash_Introduction/intro.py at master · Coding-with-Adam/Dash-by-Plotly
+Interactive data analytics. Contribute to Coding-with-Adam/Dash-by-Plotly development by creating an account on GitHub. 
+
+
+openweathermap.org
+Air Pollution - OpenWeatherMap
+Access real-time, 4 day forecast, and historical air pollution data from 27th November 2020 globally with
+OpenWeather's Air Pollution API. Detailed data on pollutants like CO, NO2, O3, SO2,NH3 and particulates (PM2.5 and PM10)
+available for any coordinates.​
