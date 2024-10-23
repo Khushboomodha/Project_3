@@ -151,9 +151,13 @@ Ethical considerations
 We used the OpenWeather map's air quality API for analysis. ​
 
 ​Based on existing policies, our assumption is that in sourcing the data for the air quality dataset, the following principles were adhered to:​
+
 respect for individual privacy​
+
 accuracy in data collection​
+
 transparency in processes​
+
 adherence to lawful practices
 
 References:
